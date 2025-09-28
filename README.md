@@ -1,2 +1,1 @@
-# humanoid-robotlearning
-Pursuing physically artificial super intelligence.
+# humanoid-robot-intelligence
