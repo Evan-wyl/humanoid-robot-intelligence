@@ -1,5 +1,7 @@
 ## Behavior Foundation Model
 
+>  Foundation models learn general motion patterns, and can be applied to downstream multi tasks.
+
 ### 2025
 
 [2025] [Behavior Foundation Model for Humanoid Robots](https://arxiv.org/abs/2509.13780)
