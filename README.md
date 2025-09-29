@@ -10,7 +10,7 @@ Humanoid would be the best embodiment of Artificial Super Intelligence.
 
 #### Generalist Policy
 
-- Motion Tracking
-- Teleoperation
-- Behavior Foundation Model
-- Humanoid Object Interaction
+- [Behavior Foundation Model](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/behavior-foundation-model.md)
+- [Humanoid Object Interaction](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/humanoid-object-interaction.md)
+- [Motion Tracking](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/motion-tracking.md)
+- [Teleoperation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/teleoperation.md)
