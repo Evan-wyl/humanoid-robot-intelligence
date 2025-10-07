@@ -32,8 +32,6 @@
 
 [2025] [BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds](https://arxiv.org/abs/2502.10363)
 
-[2025] [HiLo: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller](https://arxiv.org/abs/2502.03122)
-
 
 
 ### 2024
@@ -49,6 +47,8 @@
 [2024] [Toward Understanding Key Estimation in Learning Robust Humanoid Locomotion](https://arxiv.org/abs/2403.05868)
 
 [2024] [Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control](https://arxiv.org/abs/2401.16889)
+
+[2024] [Humanoid Parkour Learning](https://arxiv.org/abs/2406.10759)
 
 [2024] Robust Locomotion Policy With Adaptive Lipschitz Constraint for Legged Robots
 

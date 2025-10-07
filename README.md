@@ -13,6 +13,7 @@ Humanoid would be the best embodiment of Artificial Super Intelligence.
 - [Loco-manipulation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/loco-manipulation.md)
 - [Locomotion](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/locomotion.md)
 - [Running](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/running.md)
+- [Motion Tracking](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/motion-skills.md)
 - [Teleoperation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/teleoperation.md)
 
 
