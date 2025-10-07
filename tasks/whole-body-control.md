@@ -12,6 +12,8 @@
 
 [2025] [Learning Motion Skills with Adaptive Assistive Curriculum Force in Humanoid Robots](https://arxiv.org/abs/2506.23125)
 
+[2025] [LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction](https://arxiv.org/abs/2506.13751)
+
 [2025] [HuB: Learning Extreme Humanoid Balance](https://arxiv.org/abs/2505.07294)
 
 [2025] [Visual Imitation Enables Contextual Humanoid Control](https://arxiv.org/abs/2505.03729)
