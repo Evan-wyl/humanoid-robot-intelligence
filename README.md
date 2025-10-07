@@ -10,6 +10,12 @@ Humanoid would be the best embodiment of Artificial Super Intelligence.
 
 
 
+### Survey
+
+[2025] [Humanoid Locomotion and Manipulation-Current Progress and Challenges in Control, Planning, and Learning](https://arxiv.org/abs/2501.02116)
+
+
+
 ### Motion Control
 
 #### Tasks
