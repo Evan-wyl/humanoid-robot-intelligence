@@ -8,6 +8,8 @@
 
 [2025] [StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening](https://arxiv.org/abs/2509.13200)
 
+[2025] [TrajBooster: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning](https://arxiv.org/abs/2509.11839)
+
 [2025] [Towards Human-level Intelligence via Human-like Whole-Body Manipulation](https://arxiv.org/abs/2507.17141)
 
 [2025] [ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation](https://arxiv.org/abs/2507.06905)
