@@ -16,6 +16,8 @@
 
 [2025] [EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos](https://arxiv.org/abs/2507.12440)
 
+[2025] [Robot Drummer: Learning Rhythmic Skills for Humanoid Drumming](https://arxiv.org/abs/2507.11498)
+
 [2025] [HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning](https://arxiv.org/abs/2507.00833)
 
 [2025] [Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation](https://arxiv.org/abs/2506.22827)

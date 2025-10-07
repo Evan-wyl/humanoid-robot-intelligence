@@ -22,6 +22,8 @@
 
 [2025] [MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains](https://arxiv.org/abs/2506.08840)
 
+[2025] [Let Humanoids Hike! Integrative Skill Development on Complex Trails](https://arxiv.org/abs/2505.06218)
+
 [2025] [Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning](https://arxiv.org/abs/2504.14305)
 
 [2025] [HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion](https://arxiv.org/abs/2503.00923)

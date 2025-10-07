@@ -4,6 +4,8 @@
 
 [2025] [Implicit Kinodynamic Motion Retargeting for Human-to-humanoid Imitation Learning](https://arxiv.org/abs/2509.15443)
 
+[2025] [HuBE: Cross-Embodiment Human-like Behavior Execution for Humanoid Robots](https://arxiv.org/abs/2508.19002)
+
 [2025] [GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation](https://www.arxiv.org/abs/2508.09960)
 
 [2025] [Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots](https://arxiv.org/abs/2507.08303)
