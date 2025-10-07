@@ -10,15 +10,15 @@ Humanoid would be the best embodiment of Artificial Super Intelligence.
 
 
 
-### Survey
+## Survey
 
 [2025] [Humanoid Locomotion and Manipulation-Current Progress and Challenges in Control, Planning, and Learning](https://arxiv.org/abs/2501.02116)
 
 
 
-### Motion Control
+## Motion Control
 
-#### Tasks
+### Tasks
 
 - [Body Control Co-Design](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/body-control-co-design.md)
 - [Get Up](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/get-up.md)
@@ -34,7 +34,7 @@ Humanoid would be the best embodiment of Artificial Super Intelligence.
 
 
 
-#### Generalist Policy
+### Generalist Policy
 
 - [Behavior Foundation Model](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/generalist-policy/behavior-foundation-model.md)
 - [Humanoid Object Interaction](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/generalist-policy/humanoid-object-interaction.md)
