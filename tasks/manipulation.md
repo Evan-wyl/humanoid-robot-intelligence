@@ -12,15 +12,9 @@
 
 [2025] [EMP: Executable Motion Prior for Humanoid Robot Standing Upper-body Motion Imitation](https://arxiv.org/abs/2507.15649)
 
-[2025] [Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597)
-
-[2025] [EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos](https://arxiv.org/abs/2507.12440)
-
 [2025] [Robot Drummer: Learning Rhythmic Skills for Humanoid Drumming](https://arxiv.org/abs/2507.11498)
 
 [2025] [HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning](https://arxiv.org/abs/2507.00833)
-
-[2025] [Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation](https://arxiv.org/abs/2506.22827)
 
 [2025] [Humanoid Policy ~ Human Policy](https://arxiv.org/abs/2503.13441)
 
