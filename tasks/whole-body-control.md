@@ -23,3 +23,5 @@
 ### 2024
 
 [2024] [WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts](https://arxiv.org/abs/2406.06005)
+
+[2024] [TDMPBC: Self-Imitative Reinforcement Learning for Humanoid Robot Control](https://arxiv.org/abs/2502.17322)
