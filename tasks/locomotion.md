@@ -4,6 +4,8 @@
 
 [2025] [LIPM-Guided Reinforcement Learning for Stable and Perceptive Locomotion in Bipedal Robots](https://arxiv.org/abs/2509.09106)
 
+[2025] [Learning to Walk in Costume: Adversarial Motion Priors for Aesthetically Constrained Humanoids](https://arxiv.org/abs/2509.05581)
+
 [2025] [Traversing Narrow Paths: A Two-Stage Reinforcement Learning Framework for Robust and Safe Humanoid Walking](https://arxiv.org/abs/2508.20661)
 
 [2025] [No More Marching: Learning Humanoid Locomotion for Short-Range SE(2) Targets](https://arxiv.org/abs/2508.14098)
@@ -25,6 +27,9 @@
 [2025] [Let Humanoids Hike! Integrative Skill Development on Complex Trails](https://arxiv.org/abs/2505.06218)
 
 [2025] [Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning](https://arxiv.org/abs/2504.14305)
+[2025] [StyleLoco: Generative Adversarial Distillation for Natural Humanoid Robot Locomotion](https://arxiv.org/abs/2503.15082)
+
+[2025] [Natural Humanoid Robot Locomotion with Generative Motion Prior](https://arxiv.org/abs/2503.09015)
 
 [2025] [HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion](https://arxiv.org/abs/2503.00923)
 
@@ -48,9 +53,9 @@
 
 [2024] [Adapting Humanoid Locomotion over Challenging Terrain via Two-Phase Training](https://openreview.net/pdf?id=O0oK2bVist)
 
-[2024] [BiRoDiff: Diffusion policies for bipedal robot locomotion on unseen terrains](https://arxiv.org/abs/2407.05424)
-
 [2024] [Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning](https://arxiv.org/abs/2408.14472)
+
+[2024] [BiRoDiff: Diffusion policies for bipedal robot locomotion on unseen terrains](https://arxiv.org/abs/2407.05424)
 
 [2024] [Toward Understanding Key Estimation in Learning Robust Humanoid Locomotion](https://arxiv.org/abs/2403.05868)
 
@@ -59,6 +64,20 @@
 [2024] [Humanoid Parkour Learning](https://arxiv.org/abs/2406.10759)
 
 [2024] Robust Locomotion Policy With Adaptive Lipschitz Constraint for Legged Robots
+
+
+
+### 2023
+
+[2023] [HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation](https://arxiv.org/abs/2309.14225)
+
+[2023] [Learning to Walk and Fly with Adversarial Motion Priors](https://arxiv.org/abs/2309.12784)
+
+
+
+### 2022
+
+[2022] [Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors](https://arxiv.org/abs/2203.17138)
 
 
 
