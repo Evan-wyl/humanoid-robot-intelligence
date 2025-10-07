@@ -6,6 +6,12 @@
 
 [2025] [GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation](https://www.arxiv.org/abs/2508.09960)
 
+[2025] [Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots](https://arxiv.org/abs/2507.08303)
+
+[2025] [Learning Motion Skills with Adaptive Assistive Curriculum Force in Humanoid Robots](https://arxiv.org/abs/2506.23125)
+
+[2025] [HuB: Learning Extreme Humanoid Balance](https://arxiv.org/abs/2505.07294)
+
 [2025] [Visual Imitation Enables Contextual Humanoid Control](https://arxiv.org/abs/2505.03729)
 
 [2025] [Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motions](https://arxiv.org/abs/2502.01465)
