@@ -4,6 +4,10 @@
 
 Humanoid would be the best embodiment of Artificial Super Intelligence.
 
+---
+
+- **[New!]** Add the new part of [Autonomous Policy](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/autonomous-policy.md)
+
 
 
 ### Motion Control
@@ -16,6 +20,7 @@ Humanoid would be the best embodiment of Artificial Super Intelligence.
 - [Loco-manipulation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/loco-manipulation.md)
 - [Locomotion](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/locomotion.md)
 - [Manipulation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/manipulation.md)
+- [Perception](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/perception.md)
 - [Running](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/running.md)
 - [Sports Skills](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/sports-skills.md)
 - [Teleoperation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/teleoperation.md)
