@@ -30,13 +30,13 @@ Humanoid would be the best embodiment of Artificial Super Intelligence.
 
 ### Skills
 
-- [Get Up](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/get-up.md)
-- [Loco-manipulation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/loco-manipulation.md)
-- [Locomotion](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/locomotion.md)
-- [Manipulation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/manipulation.md)
-- [Perception](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/perception.md)
-- [Running](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/running.md)
-- [Whole Body Control](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/whole-body-control.md)
+- [Get Up](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/get-up.md)
+- [Loco-manipulation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/loco-manipulation.md)
+- [Locomotion](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/locomotion.md)
+- [Manipulation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/manipulation.md)
+- [Perception](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/perception.md)
+- [Running](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/running.md)
+- [Whole Body Control](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/whole-body-control.md)
 
 
 
