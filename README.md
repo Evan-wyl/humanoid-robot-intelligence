@@ -18,20 +18,6 @@ Humanoid would be the best embodiment of Artificial Super Intelligence.
 
 ## 2. Motion Control
 
-### Tasks
-
-- [Get Up](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/get-up.md)
-- [Loco-manipulation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/loco-manipulation.md)
-- [Locomotion](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/locomotion.md)
-- [Manipulation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/manipulation.md)
-- [Perception](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/perception.md)
-- [Running](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/running.md)
-- [Sports Skills](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/sports-skills.md)
-- [Teleoperation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/teleoperation.md)
-- [Whole Body Control](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/whole-body-control.md)
-
-
-
 ### Generalist Policy
 
 - [Behavior Foundation Model](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/generalist-policy/behavior-foundation-model.md)
@@ -39,3 +25,24 @@ Humanoid would be the best embodiment of Artificial Super Intelligence.
 - [Motion Tracking](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/generalist-policy/motion-tracking.md)
 - [Teleoperation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/generalist-policy/teleoperation.md)
 - [Vision language Action](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/generalist-policy/vision-language-action.md)
+
+
+
+### Skills
+
+- [Get Up](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/get-up.md)
+- [Loco-manipulation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/loco-manipulation.md)
+- [Locomotion](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/locomotion.md)
+- [Manipulation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/manipulation.md)
+- [Perception](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/perception.md)
+- [Running](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/running.md)
+- [Whole Body Control](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/whole-body-control.md)
+
+
+
+### Tasks
+
+- Human Humanoid Interaction
+- [Sports Games](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/sports-games.md)
+- [Teleoperation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/teleoperation.md)
+
