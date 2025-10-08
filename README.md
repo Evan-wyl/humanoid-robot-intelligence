@@ -19,16 +19,6 @@ Humanoid would be the best embodiment of Artificial Super Intelligence.
 
 ## 2. Papers
 
-### Generalist Policy
-
-- [Behavior Foundation Model](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/generalist-policy/behavior-foundation-model.md)
-- [Humanoid Object Interaction](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/generalist-policy/humanoid-object-interaction.md)
-- [Motion Tracking](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/generalist-policy/motion-tracking.md)
-- [Teleoperation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/generalist-policy/teleoperation.md)
-- [Vision language Action](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/generalist-policy/vision-language-action.md)
-
-
-
 ### Skills
 
 - [Get Up](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/get-up.md)
@@ -38,6 +28,16 @@ Humanoid would be the best embodiment of Artificial Super Intelligence.
 - [Perception](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/perception.md)
 - [Running](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/running.md)
 - [Whole Body Control](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/whole-body-control.md)
+
+
+
+### Generalist Policy
+
+- [Behavior Foundation Model](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/generalist-policy/behavior-foundation-model.md)
+- [Humanoid Object Interaction](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/generalist-policy/humanoid-object-interaction.md)
+- [Motion Tracking](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/generalist-policy/motion-tracking.md)
+- [Teleoperation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/generalist-policy/teleoperation.md)
+- [Vision language Action](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/generalist-policy/vision-language-action.md)
 
 
 
