@@ -16,7 +16,7 @@ Humanoid would be the best embodiment of Artificial Super Intelligence.
 
 
 
-## 2. Motion Control
+## 2. Papers
 
 ### Generalist Policy
 
