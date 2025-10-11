@@ -30,6 +30,8 @@
 
 ### 2024
 
+[2024] [The Role of Domain Randomization in Training Diffusion Policies for Whole-Body Humanoid Control](https://arxiv.org/abs/2411.01349)
+
 [2024] [EMOTION: Expressive Motion Sequence Generation for Humanoid Robots with In-Context Learning](https://arxiv.org/abs/2410.23234)
 
 [2024] [WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts](https://arxiv.org/abs/2406.06005)
