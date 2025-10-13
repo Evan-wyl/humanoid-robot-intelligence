@@ -26,6 +26,8 @@
 
 [2025] [BarlowWalk: Self-supervised Representation Learning for Legged Robot Terrain-adaptive Locomotion](https://www.arxiv.org/abs/2508.00939)
 
+[2025] [Attention-Based Map Encoding for Learning Generalized Legged Locomotion](https://arxiv.org/abs/2506.09588)
+
 [2025] [MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains](https://arxiv.org/abs/2506.08840)
 
 [2025] [Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning](https://arxiv.org/abs/2504.14305)
@@ -37,6 +39,8 @@
 [2025] [HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion](https://arxiv.org/abs/2503.00923)
 
 [2025] [Learning Perceptive Humanoid Locomotion over Challenging Terrain](https://arxiv.org/abs/2503.00692)
+
+[2025] [Learning Humanoid Locomotion with World Model Reconstruction](https://arxiv.org/abs/2502.16230)
 
 [2025] [VB-Com: Learning Vision-Blind Composite Humanoid Locomotion Against Deficient Perception](https://arxiv.org/abs/2502.14814)
 
