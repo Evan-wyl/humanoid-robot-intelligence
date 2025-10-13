@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation](https://arxiv.org/abs/2510.08807)
+
 [2025] [Towards Proprioception-Aware Embodied Planning for Dual-Arm Humanoid Robots](https://www.arxiv.org/abs/2510.07882)
 
 [2025] [ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning](https://arxiv.org/abs/2510.05070)
