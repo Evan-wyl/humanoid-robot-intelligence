@@ -16,4 +16,6 @@
 
 [2024] [ExBody2-Advanced Expressive Humanoid Whole-Body Control](https://arxiv.org/abs/2412.13196)
 
+[2024] [HumanPlus: Humanoid Shadowing and Imitation from Humans](https://arxiv.org/abs/2406.10454)
+
 [2024] [Expressive Whole-Body Control for Humanoid Robots](https://arxiv.org/abs/2402.16796)

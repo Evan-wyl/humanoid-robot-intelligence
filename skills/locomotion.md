@@ -52,6 +52,8 @@
 
 [2025] [A Unified and General Humanoid Whole-Body Controller for Versatile Locomotion](https://arxiv.org/abs/2502.03206)
 
+[2025] [Think on your feet: Seamless Transition between Human-like Locomotion in Response to Changing Commands](https://arxiv.org/abs/2502.18901)
+
 
 
 ### 2024
@@ -64,13 +66,17 @@
 
 [2024] [BiRoDiff: Diffusion policies for bipedal robot locomotion on unseen terrains](https://arxiv.org/abs/2407.05424)
 
+[2024] [Humanoid Parkour Learning](https://arxiv.org/abs/2406.10759)
+
 [2024] [Toward Understanding Key Estimation in Learning Robust Humanoid Locomotion](https://arxiv.org/abs/2403.05868)
 
 [2024] [Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control](https://arxiv.org/abs/2401.16889)
 
 [2024] [Humanoid Parkour Learning](https://arxiv.org/abs/2406.10759)
 
-[2024] Robust Locomotion Policy With Adaptive Lipschitz Constraint for Legged Robots
+[2024] [Robust Locomotion Policy With Adaptive Lipschitz Constraint for Legged Robots](https://ieeexplore.ieee.org/document/10767293)
+
+[2024] [Humanoid Locomotion as Next Token Prediction](https://arxiv.org/abs/2402.19469)
 
 
 
@@ -79,6 +85,8 @@
 [2023] [HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation](https://arxiv.org/abs/2309.14225)
 
 [2023] [Learning to Walk and Fly with Adversarial Motion Priors](https://arxiv.org/abs/2309.12784)
+
+[2023] [Learning Gait-conditioned Bipedal Locomotion with Motor Adaptation](https://ieeexplore.ieee.org/document/10375167)
 
 
 
