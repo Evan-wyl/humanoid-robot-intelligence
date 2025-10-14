@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning](https://arxiv.org/abs/2510.11542)
+
 [2025] [Probabilistically-Safe Bipedal Navigation over Uncertain Terrain via Conformal Prediction and Contraction Analysis](https://arxiv.org/abs/2510.07725)
 
 [2025] [LOVON: Legged Open-Vocabulary Object Navigator](https://arxiv.org/abs/2507.06747)

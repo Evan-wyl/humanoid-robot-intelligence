@@ -2,6 +2,10 @@
 
 ### 2025
 
+[2025] [Ego-Vision World Model for Humanoid Contact Planning](https://arxiv.org/abs/2510.11682)
+
+[2025] [Preference-Conditioned Multi-Objective RL for Integrated Command Tracking and Force Compliance in Humanoid Locomotion](https://arxiv.org/abs/2510.10851)
+
 [2025] [DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction](https://arxiv.org/abs/2510.07152)
 
 [2025] [RL-augmented Adaptive Model Predictive Control for Bipedal Locomotion over Challenging Terrain](https://arxiv.org/abs/2509.18466)
