@@ -84,6 +84,8 @@
 
 [2023] [HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation](https://arxiv.org/abs/2309.14225)
 
+[2023] [Benchmarking Potential Based Rewards for Learning Humanoid Locomotion](https://arxiv.org/abs/2307.10142)
+
 [2023] [Learning to Walk and Fly with Adversarial Motion Priors](https://arxiv.org/abs/2309.12784)
 
 [2023] [Learning Gait-conditioned Bipedal Locomotion with Motor Adaptation](https://ieeexplore.ieee.org/document/10375167)
