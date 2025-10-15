@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation](https://arxiv.org/abs/2509.20322)
+
 [2025] [KungfuBot2: Learning Versatile Motion Skills for Humanoid Whole-Body Control](https://arxiv.org/abs/2509.16638)
 
 [2025] [Track Any Motions under Any Disturbances](https://arxiv.org/abs/2509.13833)

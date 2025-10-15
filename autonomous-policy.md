@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion](https://arxiv.org/abs/2509.14353)
+
 [2025] [Learning to Evaluate Autonomous Behaviour in Human-Robot Interaction](https://arxiv.org/abs/2507.06404)
 
 [2025] [Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching](https://arxiv.org/abs/2508.03068)
