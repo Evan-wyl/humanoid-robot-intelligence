@@ -12,6 +12,10 @@
 
 [2025] [GMT-General Motion Tracking for Humanoid Whole-Body Control](https://arxiv.org/abs/2506.14770)
 
+[2025] [RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control](https://arxiv.org/abs/2506.12769)
+
+[2025] [From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots](https://arxiv.org/abs/2506.12779)
+
 
 
 ### 2024

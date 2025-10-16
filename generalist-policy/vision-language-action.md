@@ -12,6 +12,8 @@
 
 [2025] [Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation](https://arxiv.org/abs/2506.22827)
 
+[2025] [LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction](https://arxiv.org/abs/2506.13751)
+
 [2025] [LangWBC: Language-directed Humanoid Whole-Body Control via End-to-end Learning](https://arxiv.org/abs/2504.21738)
 
 [2025] [Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration](https://arxiv.org/abs/2502.14795)
