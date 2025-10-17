@@ -74,6 +74,8 @@
 
 [2024] [Humanoid Parkour Learning](https://arxiv.org/abs/2406.10759)
 
+[2024] [DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets](https://arxiv.org/abs/2404.19264)
+
 [2024] [Toward Understanding Key Estimation in Learning Robust Humanoid Locomotion](https://arxiv.org/abs/2403.05868)
 
 [2024] [Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control](https://arxiv.org/abs/2401.16889)
