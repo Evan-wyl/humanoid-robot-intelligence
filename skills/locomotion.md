@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [Architecture Is All You Need: Diversity-Enabled Sweet Spots for Robust Humanoid Locomotion](https://arxiv.org/abs/2510.14947)
+
 [2025] [PolygMap: A Perceptive Locomotion Framework for Humanoid Robot Stair Climbing](https://arxiv.org/abs/2510.12346)
 
 [2025] [Ego-Vision World Model for Humanoid Contact Planning](https://arxiv.org/abs/2510.11682)
