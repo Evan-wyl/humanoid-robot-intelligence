@@ -2,7 +2,7 @@
 
 ### 2025
 
-[2025] [Towards Adaptable Humanoid Control via Adaptive Motion Tracking](https://taohuang13.github.io/adamimic.github.io/assets/paper.pdf)
+[2025] [Towards Adaptable Humanoid Control via Adaptive Motion Tracking](https://arxiv.org/abs/2510.14454)
 
 [2025] [Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking](https://arxiv.org/abs/2510.02252)
 
