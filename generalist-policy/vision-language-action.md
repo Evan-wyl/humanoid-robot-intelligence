@@ -27,3 +27,5 @@
 [2024] [Learning from Massive Human Videos for Universal Humanoid Pose Control](https://arxiv.org/abs/2412.14172)
 
 [2024] [Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions](https://arxiv.org/abs/2410.12773)
+
+[2024] [Robot Motion Diffusion Model: Motion Generation for Robotic Characters](https://dl.acm.org/doi/abs/10.1145/3680528.3687626)
