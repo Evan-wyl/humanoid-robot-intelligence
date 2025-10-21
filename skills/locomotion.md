@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [GaussGym: An open-source real-to-sim framework for learning locomotion from pixels](https://arxiv.org/abs/2510.15352)
+
 [2025] [Architecture Is All You Need: Diversity-Enabled Sweet Spots for Robust Humanoid Locomotion](https://arxiv.org/abs/2510.14947)
 
 [2025] [PolygMap: A Perceptive Locomotion Framework for Humanoid Robot Stair Climbing](https://arxiv.org/abs/2510.12346)
