@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints](https://arxiv.org/abs/2510.18002)
+
 [2025] [DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion](https://arxiv.org/abs/2509.14353)
 
 [2025] [Learning to Evaluate Autonomous Behaviour in Human-Robot Interaction](https://arxiv.org/abs/2507.06404)
