@@ -20,8 +20,6 @@
 
 [2025] [Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration](https://arxiv.org/abs/2502.14795)
 
-[2025] [Humanoid robot learning of complex behaviors with LLMs](https://www.science.org/doi/10.1126/scirobotics.adv4627)
-
 
 
 ### 2024
