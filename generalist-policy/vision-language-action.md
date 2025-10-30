@@ -20,6 +20,8 @@
 
 [2025] [Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration](https://arxiv.org/abs/2502.14795)
 
+[2025] [Humanoid robot learning of complex behaviors with LLMs](https://www.science.org/doi/10.1126/scirobotics.adv4627)
+
 
 
 ### 2024
@@ -29,3 +31,11 @@
 [2024] [Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions](https://arxiv.org/abs/2410.12773)
 
 [2024] [Robot Motion Diffusion Model: Motion Generation for Robotic Characters](https://dl.acm.org/doi/abs/10.1145/3680528.3687626)
+
+
+
+### 2023
+
+[2023] [Words into Action: Learning Diverse Humanoid Robot Behaviors using Language Guided Iterative Motion Refinement](https://arxiv.org/abs/2310.06226v1)
+
+[2023] [Incremental Learning of Humanoid Robot Behavior from Natural Interaction and Large Language Models](https://arxiv.org/abs/2309.04316)
