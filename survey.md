@@ -4,6 +4,8 @@
 
 [2025] [The Reality Gap in Robotics: Challenges, Solutions, and Best Practices](https://arxiv.org/abs/2510.20808)
 
+[2025] [Humanoid Locomotion and Manipulation-Current Progress and Challenges in Control, Planning, and Learning](https://arxiv.org/abs/2501.02116)
+
 
 
 ### 2024
