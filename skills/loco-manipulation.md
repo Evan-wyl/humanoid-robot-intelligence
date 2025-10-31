@@ -4,8 +4,6 @@
 
 [2025] [DemoHLM: From One Demonstration to Generalizable Humanoid Loco-Manipulation](https://arxiv.org/abs/2510.11258)
 
-[2025] [Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation](https://arxiv.org/abs/2510.08807)
-
 [2025] [VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation](https://arxiv.org/abs/2509.20322)
 
 [2025] [Towards Proprioception-Aware Embodied Planning for Dual-Arm Humanoid Robots](https://www.arxiv.org/abs/2510.07882)

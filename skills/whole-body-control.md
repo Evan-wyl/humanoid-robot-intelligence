@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [Thor: Towards Human-Level Whole-Body Reactions for Intense Contact-Rich Environments](https://arxiv.org/abs/2510.26280)
+
 [2025] [SoftMimic: Learning Compliant Whole-body Control from Examples](https://arxiv.org/abs/2510.17792)
 
 [2025] [Implicit Kinodynamic Motion Retargeting for Human-to-humanoid Imitation Learning](https://arxiv.org/abs/2509.15443)
