@@ -38,6 +38,8 @@
 
 [2025] [BarlowWalk: Self-supervised Representation Learning for Legged Robot Terrain-adaptive Locomotion](https://www.arxiv.org/abs/2508.00939)
 
+[2025] [Constrained Style Learning from Imperfect Demonstrations under Task Optimality](https://arxiv.org/abs/2507.09371)
+
 [2025] [Attention-Based Map Encoding for Learning Generalized Legged Locomotion](https://arxiv.org/abs/2506.09588)
 
 [2025] [MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains](https://arxiv.org/abs/2506.08840)
