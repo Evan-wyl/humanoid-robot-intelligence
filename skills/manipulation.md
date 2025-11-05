@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](https://arxiv.org/abs/2511.02776)
+
 [2025] [Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning](https://arxiv.org/abs/2509.13534)
 
 [2025] [MimicDroid: In-Context Learning for Humanoid Robot Manipulation from Human Play Videos](https://arxiv.org/abs/2509.09769)

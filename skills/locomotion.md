@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [Heuristic Step Planning for Learning Dynamic Bipedal Locomotion: A Comparative Study of Model-Based and Model-Free Approaches](https://arxiv.org/abs/2511.00840)
+
 [2025] [One-shot Humanoid Whole-body Motion Learning](https://arxiv.org/abs/2510.25241)
 
 [2025] [GaussGym: An open-source real-to-sim framework for learning locomotion from pixels](https://arxiv.org/abs/2510.15352)
