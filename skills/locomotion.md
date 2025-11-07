@@ -96,6 +96,8 @@
 
 [2024] [Humanoid Locomotion as Next Token Prediction](https://arxiv.org/abs/2402.19469)
 
+[2024] [Morphological Symmetries in Robotics](https://arxiv.org/abs/2402.15552)
+
 
 
 ### 2023
@@ -107,6 +109,8 @@
 [2023] [Benchmarking Potential Based Rewards for Learning Humanoid Locomotion](https://arxiv.org/abs/2307.10142)
 
 [2023] [Real-World Humanoid Locomotion with Reinforcement Learning](https://arxiv.org/abs/2303.03381)
+
+[2023] [On discrete symmetries of robotics systems: A group-theoretic and data-driven analysis](https://arxiv.org/abs/2302.10433)
 
 [2023] [Learning Gait-conditioned Bipedal Locomotion with Motor Adaptation](https://ieeexplore.ieee.org/document/10375167)
 
