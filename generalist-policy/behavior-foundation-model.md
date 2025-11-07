@@ -4,6 +4,8 @@
 
 ### 2025
 
+[2025] [BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning](https://arxiv.org/abs/2511.04131)
+
 [2025] [Behavior Foundation Model for Humanoid Robots](https://arxiv.org/abs/2509.13780)
 
 [2025] [BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion](https://arxiv.org/abs/2508.08241)

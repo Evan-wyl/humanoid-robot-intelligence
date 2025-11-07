@@ -16,4 +16,6 @@
 
 ### 2024
 
+[2024] [Bi-Level Motion Imitation for Humanoid Robots](https://arxiv.org/abs/2410.01968)
+
 [2024] [VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters](https://la.disneyresearch.com/wp-content/uploads/VMP_paper.pdf)
