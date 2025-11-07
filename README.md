@@ -39,7 +39,6 @@ Humanoid would be the best embodiment of Artificial Super Intelligence.
 
 ### Tasks
 
-- [Human Humanoid Interaction](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/human-humanoid-interaction.md)
 - [Humanoid Scene Interaction](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/humanoid-scene-interaction.md)
 - [Motion Tracking](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/motion-tracking.md)
 - [Multi Agent Interaction](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/tasks/multi-agent-interaction.md)
