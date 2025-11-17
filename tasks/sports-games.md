@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [Humanoid Whole-Body Badminton via Multi-Stage Reinforcement Learning](https://arxiv.org/abs/2511.11218)
+
 [2025] [Learning Vision-Driven Reactive Soccer Skills for Humanoid Robots](https://arxiv.org/abs/2511.03996)
 
 [2025] [Like Playing a Video Game: Spatial-Temporal Optimization of Foot Trajectories for Controlled Football Kicking in Bipedal Robots](https://arxiv.org/abs/2510.01843)
