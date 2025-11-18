@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands](https://arxiv.org/abs/2511.13710)
+
 [2025] [RGMP: Recurrent Geometric-prior Multimodal Policy for Generalizable Humanoid Robot Manipulation](https://arxiv.org/abs/2511.09141)
 
 [2025] [XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](https://arxiv.org/abs/2511.02776)
