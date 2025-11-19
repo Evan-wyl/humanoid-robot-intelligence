@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation](https://arxiv.org/abs/2511.14756)
+
 [2025] [DemoHLM: From One Demonstration to Generalizable Humanoid Loco-Manipulation](https://arxiv.org/abs/2510.11258)
 
 [2025] [Towards Proprioception-Aware Embodied Planning for Dual-Arm Humanoid Robots](https://www.arxiv.org/abs/2510.07882)
