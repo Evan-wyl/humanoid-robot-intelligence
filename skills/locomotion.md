@@ -42,6 +42,8 @@
 
 [2025] [Learning a Vision-Based Footstep Planner for Hierarchical Walking Control](https://arxiv.org/abs/2508.06779)
 
+[2025] [Achieving Precise and Reliable Locomotion with Differentiable Simulation-Based System Identification](https://arxiv.org/abs/2508.04696)
+
 [2025] [Coordinated Humanoid Robot Locomotion with Symmetry Equivariant Reinforcement Learning Policy](https://www.arxiv.org/abs/2508.01247)
 
 [2025] [BarlowWalk: Self-supervised Representation Learning for Legged Robot Terrain-adaptive Locomotion](https://www.arxiv.org/abs/2508.00939)

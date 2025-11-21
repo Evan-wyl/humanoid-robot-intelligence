@@ -9,3 +9,29 @@
 [2025] [Like Playing a Video Game: Spatial-Temporal Optimization of Foot Trajectories for Controlled Football Kicking in Bipedal Robots](https://arxiv.org/abs/2510.01843)
 
 [2025] [HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning](https://arxiv.org/abs/2508.21043)
+
+
+
+### 2024
+
+[2024] [Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning](https://arxiv.org/abs/2405.02425)
+
+[2024] [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://arxiv.org/abs/2304.13653)
+
+
+
+### 2023
+
+[2023] [NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields](https://arxiv.org/abs/2210.04932)
+
+
+
+### 2022
+
+[2022] [Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors](https://arxiv.org/abs/2203.17138)
+
+
+
+### 2021
+
+[2021] [From Motor Control to Team Play in Simulated Humanoid Football](https://arxiv.org/abs/2105.12196)
