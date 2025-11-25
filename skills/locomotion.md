@@ -2,6 +2,10 @@
 
 ### 2025
 
+[2025] [Human Imitated Bipedal Locomotion with Frequency Based Gait Generator Network](https://arxiv.org/abs/2511.17387)
+
+[2025] [AutoOdom: Learning Auto-regressive Proprioceptive Odometry for Legged Locomotion](https://arxiv.org/abs/2511.18857)
+
 [2025] [Gallant: Voxel Grid-based Humanoid Locomotion and Local-navigation across 3D Constrained Terrains](https://arxiv.org/abs/2511.14625)
 
 [2025] [DecARt Leg: Design and Evaluation of a Novel Humanoid Robot Leg with Decoupled Actuation for Agile Locomotion](https://arxiv.org/abs/2511.10021)
