@@ -17,13 +17,13 @@ Humanoid would be the best embodiment of Artificial Super Intelligence.
 
 ### Skills
 
-- [Get Up](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/get-up.md)
 - [Loco-manipulation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/loco-manipulation.md)
 - [Locomotion](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/locomotion.md)
 - [Manipulation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/manipulation.md)
 - [Navigation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/navigation.md)
 - [Perception](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/perception.md)
 - [Running](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/running.md)
+- [Stand Up and Fall-Safety](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/stand-up-and-fall-safety.md)
 - [Whole Body Control](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/whole-body-control.md)
 
 
