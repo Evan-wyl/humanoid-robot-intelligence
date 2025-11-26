@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [HAFO: Humanoid Force-Adaptive Control for Intense External Force Interaction Environments](https://arxiv.org/abs/2511.20275)
+
 [2025] [Thor: Towards Human-Level Whole-Body Reactions for Intense Contact-Rich Environments](https://arxiv.org/abs/2510.26280)
 
 [2025] [SoftMimic: Learning Compliant Whole-body Control from Examples](https://arxiv.org/abs/2510.17792)
