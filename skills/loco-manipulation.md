@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [Kinematics-Aware Multi-Policy Reinforcement Learning for Force-Capable Humanoid Loco-Manipulation](https://arxiv.org/abs/2511.21169)
+
 [2025] [VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation](https://arxiv.org/abs/2511.15200)
 
 [2025] [HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation](https://arxiv.org/abs/2511.14756)
