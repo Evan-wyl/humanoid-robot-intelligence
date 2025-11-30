@@ -22,6 +22,8 @@
 
 [2025] [HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning](https://arxiv.org/abs/2507.00833)
 
+[2025] [Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation](https://arxiv.org/abs/2503.24361)
+
 [2025] [Humanoid Policy ~ Human Policy](https://arxiv.org/abs/2503.13441)
 
 [2025] [Humanoids in Hospitals: A Technical Study of Humanoid Surrogates for Dexterous Medical Interventions](https://arxiv.org/abs/2503.12725v1)
