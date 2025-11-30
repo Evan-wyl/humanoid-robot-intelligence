@@ -18,4 +18,6 @@
 
 ### Manipulation
 
+[2025] [RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation](https://arxiv.org/abs/2511.17441)
+
 [2025] [A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation](https://arxiv.org/abs/2510.25725)
