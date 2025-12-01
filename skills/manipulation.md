@@ -12,6 +12,8 @@
 
 [2025] [MimicDroid: In-Context Learning for Humanoid Robot Manipulation from Human Play Videos](https://arxiv.org/abs/2509.09769)
 
+[2025] [Residual Off-Policy RL for Finetuning Behavior Cloning Policies](https://arxiv.org/abs/2509.19301)
+
 [2025] [Actor-Critic for Continuous Action Chunks: A Reinforcement Learning Framework for Long-Horizon Robotic Manipulation with Sparse Reward](https://arxiv.org/abs/2508.11143)
 
 [2025] [TOP: Time Optimization Policy for Stable and Accurate Standing Manipulation with Humanoid Robots](https://arxiv.org/abs/2508.00355)
