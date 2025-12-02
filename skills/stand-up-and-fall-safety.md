@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [Discovering Self-Protective Falling Policy for Humanoid Robot via Deep Reinforcement Learning](https://arxiv.org/abs/2512.01336)
+
 [2025] [SafeFall: Learning Protective Control for Humanoid Robots](https://arxiv.org/abs/2511.18509)
 
 [2025] [Unified Humanoid Fall-Safety Policy from a Few Demonstrations](https://arxiv.org/abs/2511.07407)

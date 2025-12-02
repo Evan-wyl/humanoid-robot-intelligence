@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [Modality-Augmented Fine-Tuning of Foundation Robot Policies for Cross-Embodiment Manipulation on GR1 and G1](https://arxiv.org/abs/2512.01358)
+
 [2025] [From Power to Precision: Learning Fine-grained Dexterity for Multi-fingered Robotic Hands](https://arxiv.org/abs/2511.13710)
 
 [2025] [RGMP: Recurrent Geometric-prior Multimodal Policy for Generalizable Humanoid Robot Manipulation](https://arxiv.org/abs/2511.09141)
