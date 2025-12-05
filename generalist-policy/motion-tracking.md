@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [From Generated Human Videos to Physically Plausible Robot Trajectories](https://arxiv.org/abs/2512.05094)
+
 [2025] [Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data](https://arxiv.org/abs/2511.17373)
 
 [2025] [SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control](https://arxiv.org/abs/2511.07820)
