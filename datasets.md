@@ -12,6 +12,8 @@
 
 ### Loco-manipulation
 
+[2025] [DreamGen: Unlocking Generalization in Robot Learning through Video World Models](https://arxiv.org/abs/2505.12705)
+
 [2025] [Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation](https://arxiv.org/abs/2510.08807)
 
 
