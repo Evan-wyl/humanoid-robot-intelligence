@@ -8,6 +8,8 @@
 
 [2025] [SENTINEL: A Fully End-to-End Language-Action Model for Humanoid Whole Body Control](https://arxiv.org/abs/2511.19236)
 
+[2025] [XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](https://arxiv.org/abs/2511.02776)
+
 [2025] [From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance](https://arxiv.org/abs/2510.14952)
 
 [2025] [Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos](https://arxiv.org/abs/2507.15597)
