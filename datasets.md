@@ -1,5 +1,7 @@
 ## Datasets
 
+[2025] [X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale](https://www.arxiv.org/abs/2512.04537)
+
 ### Locomotion
 
 [2025] [SPIDER: Scalable Physics-Informed Dexterous Retargeting](https://arxiv.org/abs/2511.09484)
