@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [Learning Terrain Aware Bipedal Locomotion via Reduced Dimensional Perceptual Representations](https://arxiv.org/abs/2512.12993)
+
 [2025] [H-Zero: Cross-Humanoid Locomotion Pretraining Enables Few-shot Novel Embodiment Transfer](https://arxiv.org/abs/2512.00971)
 
 [2025] [Learning Sim-to-Real Humanoid Locomotion in 15 Minutes](https://arxiv.org/abs/2512.01996)

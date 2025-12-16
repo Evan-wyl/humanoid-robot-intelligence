@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [Learning to Get Up Across Morphologies: Zero-Shot Recovery with a Unified Humanoid Policy](https://arxiv.org/abs/2512.12230)
+
 [2025] [Discovering Self-Protective Falling Policy for Humanoid Robot via Deep Reinforcement Learning](https://arxiv.org/abs/2512.01336)
 
 [2025] [SafeFall: Learning Protective Control for Humanoid Robots](https://arxiv.org/abs/2511.18509)
