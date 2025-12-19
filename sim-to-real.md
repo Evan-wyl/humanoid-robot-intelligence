@@ -2,8 +2,6 @@
 
 ### 2025
 
-[2025] [CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives](https://arxiv.org/abs/2512.14696)
-
 [2025] [InEKFormer: A Hybrid State Estimator for Humanoid Robots](https://arxiv.org/abs/2511.16306)
 
 [2025] [Sim-to-Real Transfer in Deep Reinforcement Learning for Bipedal Locomotion](https://arxiv.org/abs/2511.06465)
