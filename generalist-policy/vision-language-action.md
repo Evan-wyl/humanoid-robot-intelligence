@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [Asynchronous Fast-Slow Vision-Language-Action Policies for Whole-Body Robotic Manipulation](https://arxiv.org/abs/2512.20188)
+
 [2025] [Semantic Co-Speech Gesture Synthesis and Real-Time Control for Humanoid Robots](https://arxiv.org/abs/2512.17183)
 
 [2025] [WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control](https://arxiv.org/abs/2512.11047)
