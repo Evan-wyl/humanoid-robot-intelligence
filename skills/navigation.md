@@ -8,9 +8,13 @@
 
 [2025] [FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph](https://arxiv.org/abs/2509.13733)
 
+[2025] [InternVLA-N1: An Open Dual-System Vision-Language Navigation Foundation Model with Learned Latent Plans](https://internrobotics.github.io/internvla-n1.github.io/static/pdfs/InternVLA_N1.pdf)
+
 [2025] [MonoDream: Monocular Vision-Language Navigation with Panoramic Dreaming](https://arxiv.org/abs/2508.02549)
 
 [2025] [LOVON: Legged Open-Vocabulary Object Navigator](https://arxiv.org/abs/2507.06747)
+
+[2025] [NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance](https://arxiv.org/abs/2505.08712)
 
 [2025] [Let Humanoids Hike! Integrative Skill Development on Complex Trails](https://arxiv.org/abs/2505.06218)
 
