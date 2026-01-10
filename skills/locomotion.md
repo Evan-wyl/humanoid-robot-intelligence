@@ -2,6 +2,8 @@
 
 ### 2025
 
+[2025] [Locomotion Beyond Feet](https://arxiv.org/abs/2601.03607)
+
 [2025] [E-SDS: Environment-aware See it, Do it, Sorted - Automated Environment-Aware Reinforcement Learning for Humanoid Locomotion](https://arxiv.org/abs/2512.16446)
 
 [2025] [Learning Terrain Aware Bipedal Locomotion via Reduced Dimensional Perceptual Representations](https://arxiv.org/abs/2512.12993)
