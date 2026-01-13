@@ -1,5 +1,15 @@
 ## Locomotion
 
+### 2026
+
+[2026] [Walk the PLANC: Physics-Guided RL for Agile Humanoid Locomotion on Constrained Footholds](https://arxiv.org/abs/2601.06286)
+
+[2026] [Deep Whole-body Parkour](https://arxiv.org/abs/2601.07701)
+
+[2026] [Hiking in the Wild: A Scalable Perceptive Parkour Framework for Humanoids](https://arxiv.org/abs/2601.07718)
+
+
+
 ### 2025
 
 [2025] [Locomotion Beyond Feet](https://arxiv.org/abs/2601.03607)

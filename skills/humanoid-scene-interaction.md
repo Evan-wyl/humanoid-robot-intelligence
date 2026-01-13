@@ -1,5 +1,11 @@
 ## Humanoid Scene Interaction
 
+### 2026
+
+[2026] [WaveMan: mmWave-Based Room-Scale Human Interaction Perception for Humanoid Robots](https://arxiv.org/abs/2601.07454)
+
+
+
 ### 2025
 
 [2025] [CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives](https://arxiv.org/abs/2512.14696)
