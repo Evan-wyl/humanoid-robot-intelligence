@@ -1,5 +1,11 @@
 ## Manipulation
 
+### 2026
+
+[2026] [Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation](https://arxiv.org/abs/2601.09031)
+
+
+
 ### 2025
 
 [2025] [Coordinated Humanoid Manipulation with Choice Policies](https://arxiv.org/abs/2512.25072)

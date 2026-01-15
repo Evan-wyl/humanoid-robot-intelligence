@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [AME-2: Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding](https://arxiv.org/abs/2601.08485)
+
 [2026] [Walk the PLANC: Physics-Guided RL for Agile Humanoid Locomotion on Constrained Footholds](https://arxiv.org/abs/2601.06286)
 
 [2026] [Deep Whole-body Parkour](https://arxiv.org/abs/2601.07701)
