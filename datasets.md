@@ -38,3 +38,12 @@
 
 [2025] [A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation](https://arxiv.org/abs/2510.25725)
 
+
+
+### Motion Generation
+
+[2024] [Scaling Up Dynamic Human-Scene Interaction Modeling](https://arxiv.org/abs/2403.08629)
+
+[2025] [Dynamic Motion Blending for Versatile Motion Editing](https://arxiv.org/abs/2503.20724)
+
+[2025] [The Quest for Generalizable Motion Generation: Data, Model, and Evaluation](https://arxiv.org/abs/2510.26794)
