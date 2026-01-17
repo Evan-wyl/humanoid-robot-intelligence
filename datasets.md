@@ -44,6 +44,10 @@
 
 [2024] [Scaling Up Dynamic Human-Scene Interaction Modeling](https://arxiv.org/abs/2403.08629)
 
+[2024] [DexGANGrasp: Dexterous Generative Adversarial Grasping Synthesis for Task-Oriented Manipulation](https://arxiv.org/abs/2407.17348)
+
+[2025] [DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness](https://arxiv.org/abs/2503.08257)
+
 [2025] [Dynamic Motion Blending for Versatile Motion Editing](https://arxiv.org/abs/2503.20724)
 
 [2025] [The Quest for Generalizable Motion Generation: Data, Model, and Evaluation](https://arxiv.org/abs/2510.26794)
