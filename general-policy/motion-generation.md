@@ -14,6 +14,8 @@
 
 [2025] [Semantic Co-Speech Gesture Synthesis and Real-Time Control for Humanoid Robots](https://arxiv.org/abs/2512.17183)
 
+[2025] [From Generated Human Videos to Physically Plausible Robot Trajectories](https://arxiv.org/abs/2512.05094)
+
 [2025] [Commanding Humanoid by Free-form Language: A Large Language Action Model with Unified Motion Vocabulary](https://arxiv.org/abs/2511.22963)
 
 [2025] [SENTINEL: A Fully End-to-End Language-Action Model for Humanoid Whole Body Control](https://arxiv.org/abs/2511.19236)
