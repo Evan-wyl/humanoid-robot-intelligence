@@ -1,5 +1,11 @@
 ## Navigation
 
+### 2026
+
+[2026] [FocusNav: Spatial Selective Attention with Waypoint Guidance for Humanoid Local Navigation](https://arxiv.org/abs/2601.12790)
+
+
+
 ### 2025
 
 [2025] [NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning](https://arxiv.org/abs/2510.11542)

@@ -1,5 +1,11 @@
 ## Actions Generated from Other Modality
 
+### 2026
+
+[2026] [FRoM-W1: Towards General Humanoid Whole-Body Control with Language Instructions](https://arxiv.org/abs/2601.12799)
+
+
+
 ### 2025
 
 [2025] [Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control](https://arxiv.org/abs/2512.23650)

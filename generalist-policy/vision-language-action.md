@@ -1,5 +1,11 @@
 ## Vision Language Action
 
+### 2026
+
+[2026] [Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization](https://arxiv.org/abs/2601.12993)
+
+
+
 ### 2025
 
 [2025] [InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation](https://arxiv.org/abs/2601.02456)
