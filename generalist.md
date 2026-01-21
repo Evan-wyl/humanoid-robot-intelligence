@@ -8,6 +8,8 @@
 
 ### 2025
 
+[2025] [Large Video Planner Enables Generalizable Robot Control](https://arxiv.org/abs/2512.15840)
+
 [2025] [XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](https://arxiv.org/abs/2511.02776)
 
 [2025] [Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer](https://arxiv.org/abs/2510.03342)

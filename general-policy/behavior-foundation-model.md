@@ -4,8 +4,6 @@
 
 ### 2025
 
-[2025] [Large Video Planner Enables Generalizable Robot Control](https://arxiv.org/abs/2512.15840)
-
 [2025] [BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning](https://arxiv.org/abs/2511.04131)
 
 [2025] [Behavior Foundation Model for Humanoid Robots](https://arxiv.org/abs/2509.13780)
