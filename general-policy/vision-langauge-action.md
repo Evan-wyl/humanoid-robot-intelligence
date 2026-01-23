@@ -1,5 +1,11 @@
 ## Vision Language Action
 
+### 2026
+
+[2026] [HumanoidVLM: Vision-Language-Guided Impedance Control for Contact-Rich Humanoid Manipulation](https://arxiv.org/abs/2601.14874)
+
+
+
 ### 2025
 
 [2025] [UniAct: Unified Motion Generation and Action Streaming for Humanoid Robots](https://arxiv.org/abs/2512.24321)
