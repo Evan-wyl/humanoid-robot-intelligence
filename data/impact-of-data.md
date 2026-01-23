@@ -1,4 +1,4 @@
-## The impact of Data
+## Impact of Data
 
 ### 2025
 
