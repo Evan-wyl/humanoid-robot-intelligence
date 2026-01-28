@@ -1,5 +1,11 @@
 ## Loco-manipulation
 
+### 2026
+
+[2026] [PILOT: A Perceptive Integrated Low-level Controller for Loco-manipulation over Unstructured Scenes](https://arxiv.org/abs/2601.17440)
+
+
+
 ### 2025
 
 [2025] [CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation](https://arxiv.org/abs/2512.14689)
