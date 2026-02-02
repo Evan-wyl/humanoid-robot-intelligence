@@ -1,5 +1,11 @@
 ## Autonomous Policy
 
+### 2026
+
+[2026] [RoboStriker: Hierarchical Decision-Making for Autonomous Humanoid Boxing](https://arxiv.org/abs/2601.22517)
+
+
+
 ### 2025
 
 [2025] [TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System](https://arxiv.org/abs/2511.02832)

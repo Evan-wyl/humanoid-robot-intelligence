@@ -1,5 +1,11 @@
 ## Motion Tracking
 
+### 2026
+
+[2026] [Robust and Generalized Humanoid Motion Tracking](https://arxiv.org/abs/2601.23080)
+
+
+
 ### 2025
 
 [2025] [EGM: Efficiently Learning General Motion Tracking Policy for High Dynamic Humanoid Whole-Body Control](https://arxiv.org/abs/2512.19043)
