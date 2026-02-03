@@ -1,5 +1,11 @@
 ## Sports Games
 
+### 2026
+
+[2026] [HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos](https://arxiv.org/abs/2602.02473)
+
+
+
 ### 2025
 
 [2025] [A Hierarchical, Model-Based System for High-Performance Humanoid Soccer](https://arxiv.org/abs/2512.09431)
