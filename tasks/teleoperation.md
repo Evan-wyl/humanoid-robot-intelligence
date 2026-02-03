@@ -1,5 +1,11 @@
 ## Teleoperation
 
+### 2026
+
+[2026] [A Closed-Form Geometric Retargeting Solver for Upper Body Humanoid Robot Teleoperation](https://arxiv.org/abs/2602.01632)
+
+
+
 ### 2025
 
 [2025] [Learning Adaptive Neural Teleoperation for Humanoid Robots: From Inverse Kinematics to End-to-End Control](https://arxiv.org/abs/2511.12390)

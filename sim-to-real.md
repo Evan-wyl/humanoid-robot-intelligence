@@ -1,5 +1,11 @@
 ## Sim to Real
 
+### 2026
+
+[2026] [RAPT: Model-Predictive Out-of-Distribution Detection and Failure Diagnosis for Sim-to-Real Humanoid Robots](https://arxiv.org/abs/2602.01515)
+
+
+
 ### 2025
 
 [2025] [InEKFormer: A Hybrid State Estimator for Humanoid Robots](https://arxiv.org/abs/2511.16306)
