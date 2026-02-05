@@ -1,5 +1,11 @@
 ## Whole Body Control
 
+### 2026
+
+[2026] [HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control](https://arxiv.org/abs/2602.03205)
+
+
+
 ### 2025
 
 [2025] [PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations](https://arxiv.org/abs/2512.13093)
