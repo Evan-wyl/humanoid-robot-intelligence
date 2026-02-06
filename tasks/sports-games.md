@@ -6,6 +6,12 @@
 
 
 
+### 2026
+
+[2026] [Learning Soccer Skills for Humanoid Robots: A Progressive Perception-Action Framework](https://arxiv.org/abs/2602.05310)
+
+
+
 ### 2025
 
 [2025] [A Hierarchical, Model-Based System for High-Performance Humanoid Soccer](https://arxiv.org/abs/2512.09431)
