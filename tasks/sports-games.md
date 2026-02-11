@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Learning Human-Like Badminton Skills for Humanoid Robots](https://arxiv.org/abs/2602.08370)
+
 [2026] [HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos](https://arxiv.org/abs/2602.02473)
 
 

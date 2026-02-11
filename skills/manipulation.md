@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Humanoid Manipulation Interface: Humanoid Whole-Body Manipulation from Robot-Free Demonstrations](https://arxiv.org/abs/2602.06643)
+
 [2026] [Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation](https://arxiv.org/abs/2601.09031)
 
 
