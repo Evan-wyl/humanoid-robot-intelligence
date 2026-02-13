@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [General Humanoid Whole-Body Control via Pretraining and Fast Adaptation](https://arxiv.org/abs/2602.11929)
+
+[2026] [MOSAIC: Bridging the Sim-to-Real Gap in Generalist Humanoid Motion Tracking and Teleoperation with Rapid Residual Adaptation](https://arxiv.org/abs/2602.08594)
+
 [2026] [PDF-HR: Pose Distance Fields for Humanoid Robots](https://arxiv.org/abs/2602.04851)
 
 [2026] [HoRD: Robust Humanoid Control via History-Conditioned Reinforcement Learning and Online Distillation](https://arxiv.org/abs/2602.04412)
