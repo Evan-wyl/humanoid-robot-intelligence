@@ -1,5 +1,11 @@
 ## Stand Up and Fall-Safety
 
+### 2026
+
+[2026] [VIGOR: Visual Goal-In-Context Inference for Unified Humanoid Fall Safety](https://arxiv.org/abs/2602.16511)
+
+
+
 ### 2025
 
 [2025] [Learning to Get Up Across Morphologies: Zero-Shot Recovery with a Unified Humanoid Policy](https://arxiv.org/abs/2512.12230)

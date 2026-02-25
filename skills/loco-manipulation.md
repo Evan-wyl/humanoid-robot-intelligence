@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation](https://arxiv.org/abs/2602.16705)
+
 [2026] [EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration](https://arxiv.org/abs/2602.10106)
 
 [2026] [PILOT: A Perceptive Integrated Low-level Controller for Loco-manipulation over Unstructured Scenes](https://arxiv.org/abs/2601.17440)
