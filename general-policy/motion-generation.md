@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [TextOp: Real-time Interactive Text-Driven Humanoid Robot Motion Generation and Control](https://arxiv.org/abs/2602.07439)
+
 [2026] [FRoM-W1: Towards General Humanoid Whole-Body Control with Language Instructions](https://arxiv.org/abs/2601.12799)
 
 
