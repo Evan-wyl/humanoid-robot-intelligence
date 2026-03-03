@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [OmniTrack: General Motion Tracking via Physics-Consistent Reference](https://arxiv.org/abs/2602.23832)
+
+[2026] [OmniXtreme: Breaking the Generality Barrier in High-Dynamic Humanoid Control](https://arxiv.org/abs/2602.23843)
+
 [2026] [General Humanoid Whole-Body Control via Pretraining and Fast Adaptation](https://arxiv.org/abs/2602.11929)
 
 [2026] [MOSAIC: Bridging the Sim-to-Real Gap in Generalist Humanoid Motion Tracking and Teleoperation with Rapid Residual Adaptation](https://arxiv.org/abs/2602.08594)
