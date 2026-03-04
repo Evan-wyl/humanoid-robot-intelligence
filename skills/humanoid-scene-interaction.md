@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Pro-HOI: Perceptive Root-guided Humanoid-Object Interaction](https://arxiv.org/abs/2603.01126v1)
+
 [2026] [LessMimic: Long-Horizon Humanoid Interaction with Unified Distance Field Representations](https://arxiv.org/abs/2602.21723)
 
 [2026] [HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model](https://arxiv.org/abs/2602.11758)
