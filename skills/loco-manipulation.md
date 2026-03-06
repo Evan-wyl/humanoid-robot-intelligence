@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [Cognition to Control - Multi-Agent Learning for Human-Humanoid Collaborative Transport](https://arxiv.org/abs/2603.03768)
+
+[2026] [Interaction-Aware Whole-Body Control for Compliant Object Transport](https://arxiv.org/abs/2603.03751)
+
 [2026] [ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation](https://arxiv.org/abs/2603.03279)
 
 [2026] [Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation](https://arxiv.org/abs/2602.16705)
