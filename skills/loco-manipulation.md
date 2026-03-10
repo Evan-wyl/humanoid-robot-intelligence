@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [MetaWorld-X: Hierarchical World Modeling via VLM-Orchestrated Experts for Humanoid Loco-Manipulation](https://arxiv.org/abs/2603.08572)
+
 [2026] [Cognition to Control - Multi-Agent Learning for Human-Humanoid Collaborative Transport](https://arxiv.org/abs/2603.03768)
 
 [2026] [Interaction-Aware Whole-Body Control for Compliant Object Transport](https://arxiv.org/abs/2603.03751)

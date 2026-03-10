@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [InterReal: A Unified Physics-Based Imitation Framework for Learning Human-Object Interaction Skills](https://arxiv.org/abs/2603.07516)
+
 [2026] [Pro-HOI: Perceptive Root-guided Humanoid-Object Interaction](https://arxiv.org/abs/2603.01126v1)
 
 [2026] [LessMimic: Long-Horizon Humanoid Interaction with Unified Distance Field Representations](https://arxiv.org/abs/2602.21723)

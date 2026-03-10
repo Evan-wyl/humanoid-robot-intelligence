@@ -2,6 +2,12 @@
 
 ### 2026
 
+[2026] [Omnidirectional Humanoid Locomotion on Stairs via Unsafe Stepping Penalty and Sparse LiDAR Elevation Mapping](https://arxiv.org/abs/2603.07928)
+
+[2026] [GeoLoco: Leveraging 3D Geometric Priors from Visual Foundation Model for Robust RGB-Only Humanoid Locomotion](https://arxiv.org/abs/2603.07624)
+
+[2026] [Perceptive Variable-Timing Footstep Planning for Humanoid Locomotion on Disconnected Footholds](https://arxiv.org/abs/2603.07400)
+
 [2026] [Moving Through Clutter: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality](https://arxiv.org/abs/2603.05993)
 
 [2026] [X-Loco: Towards Generalist Humanoid Locomotion Control via Synergetic Policy Distillation](https://arxiv.org/abs/2603.03733)

@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [HybridMimic: Hybrid RL-Centroidal Control for Humanoid Motion Mimicking](https://arxiv.org/abs/2603.06775)
+
 [2026] [OmniTrack: General Motion Tracking via Physics-Consistent Reference](https://arxiv.org/abs/2602.23832)
 
 [2026] [OmniXtreme: Breaking the Generality Barrier in High-Dynamic Humanoid Control](https://arxiv.org/abs/2602.23843)
