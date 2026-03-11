@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [ZeroWBC: Learning Natural Visuomotor Humanoid Control Directly from Human Egocentric Video](https://arxiv.org/abs/2603.09170)
+
 [2026] [HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control](https://arxiv.org/abs/2602.03205)
 
 

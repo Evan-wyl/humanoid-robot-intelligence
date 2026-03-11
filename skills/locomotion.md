@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [SCDP: Learning Humanoid Locomotion from Partial Observations via Mixed-Observation Distillation](https://arxiv.org/abs/2603.09574)
+
+[2026] [Kinodynamic Motion Retargeting for Humanoid Locomotion via Multi-Contact Whole-Body Trajectory Optimization](https://arxiv.org/abs/2603.09956)
+
 [2026] [Omnidirectional Humanoid Locomotion on Stairs via Unsafe Stepping Penalty and Sparse LiDAR Elevation Mapping](https://arxiv.org/abs/2603.07928)
 
 [2026] [GeoLoco: Leveraging 3D Geometric Priors from Visual Foundation Model for Robust RGB-Only Humanoid Locomotion](https://arxiv.org/abs/2603.07624)
