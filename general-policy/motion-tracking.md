@@ -14,8 +14,6 @@
 
 [2026] [PDF-HR: Pose Distance Fields for Humanoid Robots](https://arxiv.org/abs/2602.04851)
 
-[2026] [HoRD: Robust Humanoid Control via History-Conditioned Reinforcement Learning and Online Distillation](https://arxiv.org/abs/2602.04412)
-
 [2026] [Robust and Generalized Humanoid Motion Tracking](https://arxiv.org/abs/2601.23080)
 
 
