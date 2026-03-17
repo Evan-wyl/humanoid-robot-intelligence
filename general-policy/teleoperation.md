@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [OmniClone: Engineering a Robust, All-Rounder Whole-Body Humanoid Teleoperation System](https://arxiv.org/abs/2603.14327)
+
 [2026] [ExtremControl: Low-Latency Humanoid Teleoperation with Direct Extremity Control](https://arxiv.org/abs/2602.11321)
 
 [2026] [TeleGate: Whole-Body Humanoid Teleoperation via Gated Expert Selection with Motion Prior](https://arxiv.org/abs/2602.09628)

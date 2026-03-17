@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [HALO:Closing Sim-to-Real Gap for Heavy-loaded Humanoid Agile Motion Skills via Differentiable Simulation](https://arxiv.org/abs/2603.15084)
+
+[2026] [Load-Aware Locomotion Control for Humanoid Robots in Industrial Transportation Tasks](https://arxiv.org/abs/2603.14308)
+
 [2026] [SCDP: Learning Humanoid Locomotion from Partial Observations via Mixed-Observation Distillation](https://arxiv.org/abs/2603.09574)
 
 [2026] [Kinodynamic Motion Retargeting for Humanoid Locomotion via Multi-Contact Whole-Body Trajectory Optimization](https://arxiv.org/abs/2603.09956)

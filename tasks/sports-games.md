@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [CyboRacket: A Perception-to-Action Framework for Humanoid Racket Sports](https://arxiv.org/abs/2603.14605)
+
 [2026] [Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data](https://arxiv.org/abs/2603.12686v1)
 
 [2026] [Learning Human-Like Badminton Skills for Humanoid Robots](https://arxiv.org/abs/2602.08370)
