@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions](https://arxiv.org/abs/2603.15612)
+
 [2026] [InterReal: A Unified Physics-Based Imitation Framework for Learning Human-Object Interaction Skills](https://arxiv.org/abs/2603.07516)
 
 [2026] [Pro-HOI: Perceptive Root-guided Humanoid-Object Interaction](https://arxiv.org/abs/2603.01126v1)
