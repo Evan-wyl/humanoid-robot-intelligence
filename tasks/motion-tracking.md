@@ -1,5 +1,11 @@
 ## Motion Tracking
 
+### 2026
+
+[2026] [Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](https://arxiv.org/abs/2603.22201)
+
+
+
 ### 2025
 
 [2025] [Towards Adaptable Humanoid Control via Adaptive Motion Tracking](https://arxiv.org/abs/2510.14454)

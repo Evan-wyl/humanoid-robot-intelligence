@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [PhyGile: Physics-Prefix Guided Motion Generation for Agile General Humanoid Motion Tracking](https://arxiv.org/abs/2603.19305)
+
 [2026] [HybridMimic: Hybrid RL-Centroidal Control for Humanoid Motion Mimicking](https://arxiv.org/abs/2603.06775)
 
 [2026] [OmniTrack: General Motion Tracking via Physics-Consistent Reference](https://arxiv.org/abs/2602.23832)

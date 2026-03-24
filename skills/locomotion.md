@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [Evaluating Factor-Wise Auxiliary Dynamics Supervision for Latent Structure and Robustness in Simulated Humanoid Locomotion](https://arxiv.org/abs/2603.21268)
+
+[2026] [Sim-to-Real of Humanoid Locomotion Policies via Joint Torque Space Perturbation Injection](https://arxiv.org/abs/2603.21853)
+
 [2026] [HALO:Closing Sim-to-Real Gap for Heavy-loaded Humanoid Agile Motion Skills via Differentiable Simulation](https://arxiv.org/abs/2603.15084)
 
 [2026] [Load-Aware Locomotion Control for Humanoid Robots in Industrial Transportation Tasks](https://arxiv.org/abs/2603.14308)
