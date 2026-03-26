@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [PCHC: Enabling Preference Conditioned Humanoid Control via Multi-Objective Reinforcement Learning](https://arxiv.org/abs/2603.24047)
+
 [2026] [Learning Safe-Stoppability Monitors for Humanoid Robots](https://arxiv.org/abs/2603.22703)
 
 [2026] [HUSKY: Humanoid Skateboarding System via Physics-Aware Whole-Body Control](https://arxiv.org/abs/2602.03205)
