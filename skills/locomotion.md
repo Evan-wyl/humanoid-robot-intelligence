@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [Cost-Matching Model Predictive Control for Efficient Reinforcement Learning in Humanoid Locomotion](https://arxiv.org/abs/2603.28243)
+
+[2026] [Chasing Autonomy: Dynamic Retargeting and Control Guided RL for Performant and Controllable Humanoid Running](https://arxiv.org/abs/2603.25902)
+
 [2026] [Evaluating Factor-Wise Auxiliary Dynamics Supervision for Latent Structure and Robustness in Simulated Humanoid Locomotion](https://arxiv.org/abs/2603.21268)
 
 [2026] [Sim-to-Real of Humanoid Locomotion Policies via Joint Torque Space Perturbation Injection](https://arxiv.org/abs/2603.21853)
