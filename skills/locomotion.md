@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [CReF: Cross-modal and Recurrent Fusion for Depth-conditioned Humanoid Locomotion](https://arxiv.org/abs/2603.29452)
+
 [2026] [Cost-Matching Model Predictive Control for Efficient Reinforcement Learning in Humanoid Locomotion](https://arxiv.org/abs/2603.28243)
 
 [2026] [Chasing Autonomy: Dynamic Retargeting and Control Guided RL for Performant and Controllable Humanoid Running](https://arxiv.org/abs/2603.25902)
