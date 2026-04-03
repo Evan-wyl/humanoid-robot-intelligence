@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Learning Humanoid Navigation from Human Data](https://arxiv.org/abs/2604.00416)
+
 [2026] [FocusNav: Spatial Selective Attention with Waypoint Guidance for Humanoid Local Navigation](https://arxiv.org/abs/2601.12790)
 
 

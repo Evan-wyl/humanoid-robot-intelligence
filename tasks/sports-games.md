@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [SMASH: Mastering Scalable Whole-Body Skills for Humanoid Ping-Pong with Egocentric Vision](https://arxiv.org/abs/2604.01158)
+
 [2026] [CyboRacket: A Perception-to-Action Framework for Humanoid Racket Sports](https://arxiv.org/abs/2603.14605)
 
 [2026] [Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data](https://arxiv.org/abs/2603.12686v1)
