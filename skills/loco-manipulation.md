@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation](https://arxiv.org/abs/2604.07993)
+
+[2026] [Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation](https://arxiv.org/abs/2604.08508)
+
 [2026] [AGILE: A Comprehensive Workflow for Humanoid Loco-Manipulation Learning](https://arxiv.org/abs/2603.20147)
 
 [2026] [REFINE-DP: Diffusion Policy Fine-tuning for Humanoid Loco-manipulation via Reinforcement Learning](https://arxiv.org/abs/2603.13707)
