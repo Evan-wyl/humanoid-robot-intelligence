@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Learning Versatile Humanoid Manipulation with Touch Dreaming](https://arxiv.org/abs/2604.13015)
+
 [2026] [Active Stereo-Camera Outperforms Multi-Sensor Setup in ACT Imitation Learning for Humanoid Manipulation](https://arxiv.org/abs/2603.28422)
 
 [2026] [HumDex: Humanoid Dexterous Manipulation Made Easy](https://arxiv.org/abs/2603.12260)
