@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [A Kung Fu Athlete Bot That Can Do It All Day: Highly Dynamic, Balance-Challenging Motion Dataset and Autonomous Fall-Resilient Tracking](https://arxiv.org/abs/2602.13656)
+
 [2026] [Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control](https://arxiv.org/abs/2603.22201)
 
 
