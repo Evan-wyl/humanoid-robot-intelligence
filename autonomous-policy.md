@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [A Rapid Deployment Pipeline for Autonomous Humanoid Grasping Based on Foundation Models](https://arxiv.org/abs/2604.17258)
+
 [2026] [DreamControl-v2: Simpler and Scalable Autonomous Humanoid Skills via Trainable Guided Diffusion Priors](https://arxiv.org/abs/2604.00202)
 
 [2026] [RoboStriker: Hierarchical Decision-Making for Autonomous Humanoid Boxing](https://arxiv.org/abs/2601.22517)
