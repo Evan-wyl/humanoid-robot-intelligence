@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [RecoverFormer: End-to-End Contact-Aware Recovery for Humanoid Robots](https://arxiv.org/abs/2604.22911)
+
 [2026] [Embedding Classical Balance Control Principles in Reinforcement Learning for Humanoid Recovery](https://arxiv.org/abs/2603.08619)
 
 [2026] [VIGOR: Visual Goal-In-Context Inference for Unified Humanoid Fall Safety](https://arxiv.org/abs/2602.16511)
