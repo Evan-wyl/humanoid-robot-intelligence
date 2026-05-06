@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [VOFA: Visual Object Goal Pushing with Force-Adaptive Control for Humanoids](https://arxiv.org/abs/2605.01518)
+
 [2026] [HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation](https://arxiv.org/abs/2604.07993)
 
 [2026] [Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation](https://arxiv.org/abs/2604.08508)
