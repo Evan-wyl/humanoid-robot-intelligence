@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [BifrostUMI: Bridging Robot-Free Demonstrations and Humanoid Whole-Body Manipulation](https://arxiv.org/abs/2605.03452)
+
 [2026] [Learning Versatile Humanoid Manipulation with Touch Dreaming](https://arxiv.org/abs/2604.13015)
 
 [2026] [Active Stereo-Camera Outperforms Multi-Sensor Setup in ACT Imitation Learning for Humanoid Manipulation](https://arxiv.org/abs/2603.28422)
