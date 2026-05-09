@@ -1,5 +1,11 @@
 ## Motion Retargeting
 
+### 2026
+
+[2026] [ReActor: Reinforcement Learning for Physics-Aware Motion Retargeting](https://arxiv.org/abs/2605.06593)
+
+
+
 ### 2025
 
 [2025] [World-Coordinate Human Motion Retargeting via SAM 3D Body](https://arxiv.org/abs/2512.21573)
