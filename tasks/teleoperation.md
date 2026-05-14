@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Real-Time Whole-Body Teleoperation of a Humanoid Robot Using IMU-Based Motion Capture with Sim2Sim and Sim2Real Validation](https://arxiv.org/pdf/2605.12347)
+
 [2026] [A Closed-Form Geometric Retargeting Solver for Upper Body Humanoid Robot Teleoperation](https://arxiv.org/abs/2602.01632)
 
 
