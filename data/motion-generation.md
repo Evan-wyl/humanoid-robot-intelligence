@@ -1,5 +1,11 @@
 ## Motion Generation
 
+### 2026
+
+[2026] [Before the Body Moves: Learning Anticipatory Joint Intent for Language-Conditioned Humanoid Control](https://arxiv.org/abs/2605.14417)
+
+
+
 ### 2025
 
 [2025] [X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale](https://www.arxiv.org/abs/2512.04537)
