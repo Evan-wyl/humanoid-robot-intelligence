@@ -2,6 +2,12 @@
 
 ### 2026
 
+[2026] [Humanoid Whole-Body Manipulation via Active Spatial Brain and Generalizable Action Cerebellum](https://arxiv.org/abs/2605.21133)
+
+[2026] [SUGAR: A Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation Learning Framework](https://arxiv.org/abs/2605.20373)
+
+[2026] [CEER: Compliant End-Effector and Root Control as a Unified Interface for Hierarchical Humanoid Loco-Manipulation](https://arxiv.org/abs/2605.19981)
+
 [2026] [VOFA: Visual Object Goal Pushing with Force-Adaptive Control for Humanoids](https://arxiv.org/abs/2605.01518)
 
 [2026] [HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation](https://arxiv.org/abs/2604.07993)

@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [Learning to Evolve: Multi-modal Interactive Fields for Robust Humanoid Navigation in Dynamic Environments](https://arxiv.org/abs/2605.21935)
+
+[2026] [Terrain Consistent Reference-Guided RL for Humanoid Navigation Autonomy](https://arxiv.org/abs/2605.15517)
+
 [2026] [Learning Humanoid Navigation from Human Data](https://arxiv.org/abs/2604.00416)
 
 [2026] [FocusNav: Spatial Selective Attention with Waypoint Guidance for Humanoid Local Navigation](https://arxiv.org/abs/2601.12790)

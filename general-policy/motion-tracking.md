@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [HoloMotion-1 Technical Report](https://arxiv.org/abs/2605.15336)
+
 [2026] [RPG: Robust Policy Gating for Smooth Multi-Skill Transitions in Humanoid Fighting](https://arxiv.org/abs/2604.21355)
 
 [2026] [Heracles: Bridging Precise Tracking and Generative Synthesis for General Humanoid Control](https://arxiv.org/abs/2603.27756)
