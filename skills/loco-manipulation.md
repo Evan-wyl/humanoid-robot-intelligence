@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [HumanoidMimicGen: Data Generation for Loco-Manipulation via Whole-Body Planning and Adaptation](https://openreview.net/forum?id=ekzk7TSLKr)
+
 [2026] [Humanoid Whole-Body Manipulation via Active Spatial Brain and Generalizable Action Cerebellum](https://arxiv.org/abs/2605.21133)
 
 [2026] [SUGAR: A Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation Learning Framework](https://arxiv.org/abs/2605.20373)
