@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Direct Dynamic Retargeting for Humanoid Imitation Learning from Videos](https://arxiv.org/abs/2605.23762)
+
 [2026] [ReActor: Reinforcement Learning for Physics-Aware Motion Retargeting](https://arxiv.org/abs/2605.06593)
 
 

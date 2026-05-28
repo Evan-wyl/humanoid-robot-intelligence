@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Safety-Critical Whole-Body Control for Humanoid Robots via Input-to-State Safe Control Barrier Functions](https://arxiv.org/abs/2605.25546)
+
 [2026] [Tree Learning: A Multi-Skill Continual Learning Framework for Humanoid Robots](https://arxiv.org/abs/2604.12909)
 
 [2026] [BAT: Balancing Agility and Stability via Online Policy Switching for Long-Horizon Whole-Body Humanoid Control](https://arxiv.org/abs/2604.01064)
