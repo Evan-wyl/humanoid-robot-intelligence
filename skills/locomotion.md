@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [SSR: Scaling Surefooted and Symmetric Humanoid Traversal to the Open World](https://arxiv.org/abs/2605.30770)
+
+[2026] [Global-Local Attention Decomposition for Terrain Encoding in Humanoid Perceptive Locomotion](https://arxiv.org/abs/2606.00637)
+
 [2026] [Bridging the Gap: Enabling Soft Actor Critic for High Performance Legged Locomotion](https://arxiv.org/abs/2605.24975)
 
 [2026] [SPRINT: Efficient Spectral Priors for Humanoid Athletic Sprints](https://arxiv.org/abs/2605.28549)

@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Constrained Whole-Body Tracking for Humanoid Robots](https://arxiv.org/abs/2606.00374)
+
 [2026] [Any2Any: Efficient Cross-Embodiment Transfer for Humanoid Whole-Body Tracking](https://arxiv.org/abs/2605.23733)
 
 [2026] [HoloMotion-1 Technical Report](https://arxiv.org/abs/2605.15336)

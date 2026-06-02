@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [LEGS: Fine-Tuning Teleop-Free VLAs for Humanoid Loco-manipulation in an Embodied Gaussian Splatting World](https://arxiv.org/abs/2606.01458)
+
 [2026] [HumanoidMimicGen: Data Generation for Loco-Manipulation via Whole-Body Planning and Adaptation](https://openreview.net/forum?id=ekzk7TSLKr)
 
 [2026] [Humanoid Whole-Body Manipulation via Active Spatial Brain and Generalizable Action Cerebellum](https://arxiv.org/abs/2605.21133)
