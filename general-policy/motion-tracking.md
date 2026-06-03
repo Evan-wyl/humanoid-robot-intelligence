@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [Bionic Human-Motion Style Transfer for Physically Executable Whole-Body Control of Humanoid Robots](https://arxiv.org/abs/2606.03536)
+
+[2026] [Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking](https://arxiv.org/abs/2606.03985)
+
 [2026] [Constrained Whole-Body Tracking for Humanoid Robots](https://arxiv.org/abs/2606.00374)
 
 [2026] [Any2Any: Efficient Cross-Embodiment Transfer for Humanoid Whole-Body Tracking](https://arxiv.org/abs/2605.23733)

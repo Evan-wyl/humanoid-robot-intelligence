@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [SplitAdapter: Load-Aware Humanoid Loco-Manipulation via Factorized Adaptation](https://arxiv.org/abs/2606.03297)
+
 [2026] [LEGS: Fine-Tuning Teleop-Free VLAs for Humanoid Loco-manipulation in an Embodied Gaussian Splatting World](https://arxiv.org/abs/2606.01458)
 
 [2026] [HumanoidMimicGen: Data Generation for Loco-Manipulation via Whole-Body Planning and Adaptation](https://openreview.net/forum?id=ekzk7TSLKr)
