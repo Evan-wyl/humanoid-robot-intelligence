@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [LIMMT: Less is More for Motion Tracking](https://arxiv.org/abs/2606.06953)
+
 [2026] [M3imic: Learning a Versatile Whole-Body Controller for Multimodal Motion Mimicking](https://arxiv.org/abs/2606.04829)
 
 [2026] [Bionic Human-Motion Style Transfer for Physically Executable Whole-Body Control of Humanoid Robots](https://arxiv.org/abs/2606.03536)
