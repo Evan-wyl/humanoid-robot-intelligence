@@ -42,6 +42,8 @@
 
 [2025] [Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data](https://arxiv.org/abs/2511.17373)
 
+[2025] [Switch-JustDance: Benchmarking Whole Body Motion Tracking Controllers Using a Commercial Console Game](https://arxiv.org/abs/2511.17925)
+
 [2025] [SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control](https://arxiv.org/abs/2511.07820)
 
 [2025] [KungfuBot2: Learning Versatile Motion Skills for Humanoid Whole-Body Control](https://arxiv.org/abs/2509.16638)
