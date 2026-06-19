@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI](https://arxiv.org/abs/2606.19769)
+
 [2026] [LIMMT: Less is More for Motion Tracking](https://arxiv.org/abs/2606.06953)
 
 

@@ -14,6 +14,8 @@
 
 [2026] [MARCH: Model-Assisted Reinforcement Learning for the Perceptive Control of Humanoids over Sparse Footholds](https://arxiv.org/abs/2606.10288)
 
+[2026] [Generalizing from References using a Multi-Task Reference and Goal-Driven RL Framework](https://jiashunwang.github.io/GfR/static/mat/gfr_paper.pdf)
+
 [2026] [TAGA: Terrain-aware Active Gaze Learning for Generalizable Agile Humanoid Locomotion](https://arxiv.org/abs/2606.05880)
 
 [2026] [CoRe-MoE: Contrastive Reweighted Mixture of Experts for Multi-Terrain Humanoid Locomotion with Gait Adaptation](https://arxiv.org/abs/2606.04718)
