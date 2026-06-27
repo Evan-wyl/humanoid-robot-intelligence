@@ -2,6 +2,12 @@
 
 >  Foundation models learn general motion patterns, and can be applied to downstream multi tasks.
 
+### 2026
+
+[2026] [Perceptive Behavior Foundation Model: Adapting Human Motion Priors to Robot-Centric Terrain](https://arxiv.org/abs/2606.08059)
+
+
+
 ### 2025
 
 [2025] [BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning](https://arxiv.org/abs/2511.04131)
