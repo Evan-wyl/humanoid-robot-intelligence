@@ -2,6 +2,12 @@
 
 ### 2026
 
+[2026] [ReactiveBFM: Reactive Closed-Loop Motion Planning Towards Universal Humanoid Whole-Body Control](https://arxiv.org/abs/2606.30362)
+
+[2026] [SceneBot: Contact-Prompted General Humanoid Whole Body Tracking with Scene-Interaction](https://arxiv.org/abs/2606.27581)
+
+[2026] [PressMimic: Pressure-Guided Motion Capture and Control for Humanoid Robot Imitation](https://arxiv.org/abs/2606.26741)
+
 [2026] [LIMMT: Less is More for Motion Tracking](https://arxiv.org/abs/2606.06953)
 
 [2026] [M3imic: Learning a Versatile Whole-Body Controller for Multimodal Motion Mimicking](https://arxiv.org/abs/2606.04829)
