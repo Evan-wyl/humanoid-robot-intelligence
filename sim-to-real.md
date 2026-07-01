@@ -4,6 +4,8 @@
 
 [2026] [FADA: Few-Shot Domain Adaptation via Dynamics Alignment for Humanoid Control](https://arxiv.org/abs/2606.28476)
 
+[2026] [Towards Bridging the Gap between Large-Scale Pretraining and Efficient Finetuning for Humanoid Control](https://arxiv.org/abs/2601.21363)
+
 [2026] [RAPT: Model-Predictive Out-of-Distribution Detection and Failure Diagnosis for Sim-to-Real Humanoid Robots](https://arxiv.org/abs/2602.01515)
 
 
@@ -19,3 +21,5 @@
 [2025] [Bridging the Sim-to-Real Gap from the Information Bottleneck Perspective](https://openreview.net/pdf?id=Bq4XOaU4sV)
 
 [2025] [PolySim: Bridging the Sim-to-Real Gap for Humanoid Control via Multi-Simulator Dynamics Randomization](https://arxiv.org/abs/2510.01708)
+
+[2025] [Robot Trains Robot: Automatic Real-World Policy Adaptation and Learning for Humanoids](https://arxiv.org/abs/2508.12252)
