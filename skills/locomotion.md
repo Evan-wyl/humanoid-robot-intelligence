@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [FastDSAC: Enhancing Policy Plasticity via Constrained Exploration for Scalable Humanoid Locomotion](https://arxiv.org/abs/2606.31691)
+
+[2026] [Learning Locomotion on Discrete Terrain via Minimal Proximity Sensing](https://arxiv.org/abs/2606.31912)
+
 [2026] [Booster Lab: A Data-Centric Pipeline for Learning Deployable Humanoid Locomotion Policies](https://arxiv.org/abs/2606.27813)
 
 [2026] [TACT-ful: Multi-Channel Terrain Affordance and Compliance Training for Payload-Robust Perceptive Humanoid Locomotion](https://arxiv.org/abs/2606.20645)
