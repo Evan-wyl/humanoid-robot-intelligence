@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [A Bayesian framework for the uncanny valley in humanoid robot design](https://arxiv.org/abs/2607.13060)
+
 [2026] [Fauna Sprout: A lightweight, approachable, developer-ready humanoid robot](https://arxiv.org/abs/2601.18963)
 
 
