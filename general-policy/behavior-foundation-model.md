@@ -4,6 +4,8 @@
 
 ### 2026
 
+[2026] [Scaling Behavior Foundation Model for Humanoid Robots](https://arxiv.org/abs/2607.15163)
+
 [2026] [Perceptive Behavior Foundation Model: Adapting Human Motion Priors to Robot-Centric Terrain](https://arxiv.org/abs/2606.08059)
 
 
