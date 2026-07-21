@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Handroid: Bridging Dexterous Hand and Humanoid](https://arxiv.org/abs/2607.16187)
+
 [2026] [Labimus: A Simulation and Benchmark for Humanoid Dexterous Manipulation in Chemical Laboratory](https://arxiv.org/abs/2606.31037)
 
 [2026] [WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation](https://arxiv.org/abs/2607.06438)
