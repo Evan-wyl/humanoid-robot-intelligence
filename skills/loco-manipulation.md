@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Perception-and-action system for humanoid robot task execution in construction](https://arxiv.org/abs/2608.01600)
+
 [2026] [Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning](https://arxiv.org/abs/2607.20399)
 
 [2026] [Learning Diverse Humanoid Tasks via Synthetic Video Scenarios without Real World Data](https://arxiv.org/abs/2607.21648)
