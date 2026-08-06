@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [PFM-HR: Pose Flow Matching for Humanoid Robots](https://arxiv.org/abs/2608.03227)
+
 [2026] [StableMimic: Smooth Human-Like Recovery for Humanoid Motion Tracking - Learning Beyond the Tracking Distribution for Structured Post-Fall Behavior](https://arxiv.org/abs/2608.02385)
 
 [2026] [LooperMuscle: Fast and Stable Learning of Humanoid Whole-Body Tracking via Structured Mixture-of-Experts](https://arxiv.org/abs/2608.00820)
