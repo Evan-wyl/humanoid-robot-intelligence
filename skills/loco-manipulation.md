@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [ω-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation](https://arxiv.org/abs/2608.06375)
+
 [2026] [Perception-and-action system for humanoid robot task execution in construction](https://arxiv.org/abs/2608.01600)
 
 [2026] [Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning](https://arxiv.org/abs/2607.20399)
