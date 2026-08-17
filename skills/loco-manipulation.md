@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [LUCID: Latent-Skill Unified Control via Imagined Dynamics for Long-Horizon Humanoid Loco-Manipulation](https://arxiv.org/abs/2608.07746)
+
 [2026] [ω-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation](https://arxiv.org/abs/2608.06375)
 
 [2026] [Perception-and-action system for humanoid robot task execution in construction](https://arxiv.org/abs/2608.01600)

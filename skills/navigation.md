@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [Whole-Body Planning for Humanoids Navigating Confined Spaces via Self-Collision Avoidance Reference](https://arxiv.org/abs/2608.10220)s
+
+[2026] [HumanoidVLN: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments](https://arxiv.org/abs/2608.12860)
+
 [2026] [FLUX: Accelerating Cross-Embodiment Generative Navigation Policies via Rectified Flow and Static-to-Dynamic Learning](https://arxiv.org/abs/2603.12806)
 
 [2026] [GN0: Toward a Unified Paradigm for Generation, Evaluation, and Policy Learning in Visual-Language Navigation](https://arxiv.org/abs/2606.03682)
