@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [HODAgent: Towards On-Demand, Responsive Humanoids for Physical World Human Interaction](https://arxiv.org/abs/2608.17584)
+
 [2026] [ThorArena: Benchmarking Humanoid Physical Interaction with Human Motion-Force Demonstrations](https://arxiv.org/abs/2607.06052)
 
 [2026] [SceneBot: Contact-Prompted General Humanoid Whole Body Tracking with Scene-Interaction](https://arxiv.org/abs/2606.27581)

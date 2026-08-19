@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Tac4Loco: Learning Spatiotemporal Plantar Pressure Representations for Humanoid Locomotion](https://arxiv.org/abs/2608.15766)
+
 [2026] [Light-Loco-Parkour: Versatile Perceptive Whole-Body Locomotion via Multi-Skill Distillation](https://arxiv.org/abs/2608.02653)
 
 [2026] [Learning Reusable Hybrid Motion Priors for Humanoid Locomotion from Motion Imitation](https://arxiv.org/abs/2607.24083)

@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [Throwing a Tight Spiral American Football by a Humanoid Robot](https://arxiv.org/abs/2608.16642)
+
+[2026] [RoboStriker: Latent-Space Strategic Games for Autonomous Humanoid Boxing](https://arxiv.org/abs/2608.16195)
+
 [2026] [PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball](https://arxiv.org/abs/2607.28623)
 
 [2026] [Learning Roller-Skating Motions of Humanoid Robots Based on Adversarial Motion Priors](https://arxiv.org/abs/2607.10815)
