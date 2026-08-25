@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking](https://arxiv.org/abs/2608.20087)
+
 [2026] [Throwing a Tight Spiral American Football by a Humanoid Robot](https://arxiv.org/abs/2608.16642)
 
 [2026] [RoboStriker: Latent-Space Strategic Games for Autonomous Humanoid Boxing](https://arxiv.org/abs/2608.16195)
