@@ -54,6 +54,8 @@
 
 [2026] [PDF-HR: Pose Distance Fields for Humanoid Robots](https://arxiv.org/abs/2602.04851)
 
+[2026] [Flow Policy Gradients for Robot Control](https://arxiv.org/abs/2602.02481)
+
 [2026] [Robust and Generalized Humanoid Motion Tracking](https://arxiv.org/abs/2601.23080)
 
 

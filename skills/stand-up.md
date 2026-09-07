@@ -1,4 +1,4 @@
-## Stand Up and Fall-Safety
+## Stand Up
 
 ### 2026
 
@@ -12,19 +12,10 @@
 
 [2026] [Embedding Classical Balance Control Principles in Reinforcement Learning for Humanoid Recovery](https://arxiv.org/abs/2603.08619)
 
-[2026] [VIGOR: Visual Goal-In-Context Inference for Unified Humanoid Fall Safety](https://arxiv.org/abs/2602.16511)
-
-
-
 ### 2025
 
 [2025] [Learning to Get Up Across Morphologies: Zero-Shot Recovery with a Unified Humanoid Policy](https://arxiv.org/abs/2512.12230)
 
-[2025] [Discovering Self-Protective Falling Policy for Humanoid Robot via Deep Reinforcement Learning](https://arxiv.org/abs/2512.01336)
-
-[2025] [SafeFall: Learning Protective Control for Humanoid Robots](https://arxiv.org/abs/2511.18509)
-
-[2025] [Unified Humanoid Fall-Safety Policy from a Few Demonstrations](https://arxiv.org/abs/2511.07407)
 
 [2025] [Stand Up, NAO! Increasing the Reliability of Stand-Up Motions Through Error Compensation in Position Control](https://arxiv.org/abs/2510.02129)
 
