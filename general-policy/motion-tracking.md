@@ -16,11 +16,16 @@
 
 [2026] [Extreme-RGMT: Continual Learning of Highly Dynamic Skills for Robust Generalist Humanoid Control](https://arxiv.org/abs/2607.20110)
 
+[2026] [Scaling Behavior Foundation Model for Humanoid Robots](https://arxiv.org/abs/2607.15163)
+
+
 [2026] [Athena-WBC: Capability-Aligned Policy Experts for Long-Tail Humanoid Whole-Body Control](https://arxiv.org/abs/2607.04837)
 
 [2026] [SceneBot: Contact-Prompted General Humanoid Whole Body Tracking with Scene-Interaction](https://arxiv.org/abs/2606.27581)
 
 [2026] [PressMimic: Pressure-Guided Motion Capture and Control for Humanoid Robot Imitation](https://arxiv.org/abs/2606.26741)
+
+[2026] [Perceptive Behavior Foundation Model: Adapting Human Motion Priors to Robot-Centric Terrain](https://arxiv.org/abs/2606.08059)
 
 [2026] [LIMMT: Less is More for Motion Tracking](https://arxiv.org/abs/2606.06953)
 
