@@ -26,12 +26,9 @@ Humanoid would be the best embodiment of Artificial Super Intelligence.
 - [Navigation](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/navigation.md)
 - [Perception](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/perception.md)
 - [Reactive Safety](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/reactive-safety.md)
-
 - [Running](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/running.md)
 - [Stand Up](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/stand-up.md)
 - [Whole Body Control](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/skills/whole-body-control.md)
-
-
 
 ### General Policy
 
