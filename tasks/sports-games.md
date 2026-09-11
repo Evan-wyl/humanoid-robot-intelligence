@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [SkillX: Unified Multi-Skill Policy Learning for Humanoid Soccer](https://arxiv.org/abs/2609.06718)
+
 [2026] [Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking](https://arxiv.org/abs/2608.20087)
 
 [2026] [Throwing a Tight Spiral American Football by a Humanoid Robot](https://arxiv.org/abs/2608.16642)

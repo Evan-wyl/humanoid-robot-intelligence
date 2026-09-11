@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [GLoRI: Closed-Loop Whole-Body Tracking with Global-Local Reference Interaction for Humanoid Loco-Manipulation](https://arxiv.org/abs/2609.05994)
+
 [2026] [A System for Fast, Resilient, and Adaptable Loco-Manipulation Behaviors on Humanoid Robots](https://arxiv.org/abs/2609.01518)
 
 [2026] [LAC: Linear and Angular Compliance for Humanoid Whole-body Control](https://arxiv.org/abs/2608.25405)
