@@ -2,10 +2,11 @@
 
 ### 2026
 
+[2026] [CAP: Continuously Adaptive Perception-Blind Humanoid Locomotion via Learned Denoising](https://arxiv.org/abs/2609.11553)
+
 [2026] [Learning Terrain-Adaptive Humanoid Locomotion on Granular Terrain](https://arxiv.org/abs/2609.10286)
 
-[2026] [World-Model-Augmented Visual Locomotion for Humanoids on Foothold-Constrained Terrain
-](https://arxiv.org/abs/2609.02542)
+[2026] [World-Model-Augmented Visual Locomotion for Humanoids on Foothold-Constrained Terrain](https://arxiv.org/abs/2609.02542)
 
 [2026] [SOLO: Stable Omni-terrain Long-Horizon Perceptive Humanoid Locomotion](https://arxiv.org/abs/2608.26583)
 
