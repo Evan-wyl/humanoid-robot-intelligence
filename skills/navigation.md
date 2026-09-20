@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Learning Safe Humanoid Navigation from Reduced Order Models](https://arxiv.org/abs/2609.19272)
+
 [2026] [TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model](https://arxiv.org/abs/2609.09158)
 
 [2026] [Whole-Body Planning for Humanoids Navigating Confined Spaces via Self-Collision Avoidance Reference](https://arxiv.org/abs/2608.10220)s

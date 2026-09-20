@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [ResSafe: Learning Safety Filtering with Residual Reinforcement Learning for Humanoids](https://arxiv.org/abs/2609.15988)
+
 [2026] [Humanoid Safe Stop via Learned Stoppability Value](https://arxiv.org/abs/2609.02358)
 
 [2026] [VIGOR: Visual Goal-In-Context Inference for Unified Humanoid Fall Safety](https://arxiv.org/abs/2602.16511)
