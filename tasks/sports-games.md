@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [DAVIS: A Depth-Only End-to-End Active-Vision Framework for Humanoid Soccer Skills](https://arxiv.org/abs/2609.28175)
+
+[2026] [Banana Kick: Response-Informed Skill Evolution for Humanoid Soccer](https://arxiv.org/abs/2609.27269)
+
 [2026] [SkillX: Unified Multi-Skill Policy Learning for Humanoid Soccer](https://arxiv.org/abs/2609.06718)
 
 [2026] [Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking](https://arxiv.org/abs/2608.20087)

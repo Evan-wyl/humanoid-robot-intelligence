@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [ForgetMimic: Motion Unlearning for Reinforcement Learning Humanoid Control](https://arxiv.org/abs/2609.28378)
+
+[2026] [PRIMO: Prior-Informed Odometry from Human-Motion Tracking for Humanoid Robots](https://arxiv.org/abs/2609.23610)
+
 [2026] [Learn Weightlessness: Imitate Non-Self-Stabilizing Motions on Humanoid Robot](https://arxiv.org/abs/2604.21351)
 
 [2026] [A Kung Fu Athlete Bot That Can Do It All Day: Highly Dynamic, Balance-Challenging Motion Dataset and Autonomous Fall-Resilient Tracking](https://arxiv.org/abs/2602.13656)

@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [Sample, Simulate, Select: Physics-in-the-Loop Text-to-Motion for Humanoids Without Training](https://arxiv.org/abs/2609.26420)
+
+[2026] [PredActor: Predictive Action Diffusion for Steerable Onboard Humanoid Control](https://arxiv.org/abs/2609.24840)
+
 [2026] [ADAPT: Agile Diffusion Action Priors for Robust and Steerable Online Text-Driven Humanoid Control](https://arxiv.org/abs/2609.00677)
 
 [2026] [PAMoR: Parameterized Affective Motion Generation in Real Time for Humanoid Robots](https://arxiv.org/abs/2608.28213)

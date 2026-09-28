@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [BeyondRetarget: Learning Executable Humanoid Motions Directly from Monocular Video](https://arxiv.org/abs/2609.29850)
+
+[2026] [PLAT: Sparse Timed Keyframe Motion Tracking for Humanoid Control via Privileged Latent Transition Learning](https://arxiv.org/abs/2609.25754)
+
 [2026] [HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark](https://arxiv.org/abs/2608.13555)
 
 [2026] [PFM-HR: Pose Flow Matching for Humanoid Robots](https://arxiv.org/abs/2608.03227)

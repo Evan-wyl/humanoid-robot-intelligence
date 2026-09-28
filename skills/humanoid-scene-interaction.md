@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [HOTICE: Whole-Body Humanoid Object Transportation in Cluttered Environments](https://arxiv.org/abs/2609.25363)
+
 [2026] [PASSAGE: Scaling Scene-Aligned Motion Learning for Perceptive Humanoid Traversal in Cluttered Environments](https://arxiv.org/abs/2609.18732)
 
 [2026] [Unifying Physics-Based Humanoid Interaction with a Context-Conditioned Interaction Prior](https://arxiv.org/abs/2609.06591)
