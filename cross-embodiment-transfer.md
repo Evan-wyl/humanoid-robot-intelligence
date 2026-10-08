@@ -12,9 +12,9 @@
 
 [2026] [Embodiment-Aware Generalist Specialist Distillation for Unified Humanoid Whole-Body Control](https://arxiv.org/abs/2602.02960)
 
-
-
 ### 2025
+
+[2025] [Modality-Augmented Fine-Tuning of Foundation Robot Policies for Cross-Embodiment Manipulation on GR1 and G1](https://arxiv.org/abs/2512.01358)
 
 [2025] [H-Zero: Cross-Humanoid Locomotion Pretraining Enables Few-shot Novel Embodiment Transfer](https://arxiv.org/abs/2512.00971)
 

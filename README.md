@@ -7,11 +7,14 @@ Humanoid would be the best embodiment of Artificial Super Intelligence.
 ---
 
 - **[New!]** Add the new part of [Autonomous Policy](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/autonomous-policy.md)
+- **[New!]** Add the new part of [Benchmark](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/benchmark.md)
 - **[New!]** Add the new part of [Sim-to-Real](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/sim-to-real.md)
 - **[New!]** Add the new part of [World Models](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/world-models.md)
 - **[New!]** Add the new part of [Survey](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/survey.md)
 - **[New!]** Add the new part of [Data](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/data)
 - **[New!]** Add the new part of [Cross Embodiment Transfer](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/cross-embodiment-transfer.md)
+- **[New!]** Add the new part of [Multi Agent Interaction](https://github.com/Evan-wyl/humanoid-robot-intelligence/blob/master/multi-agent-interaction.md)
+
 
 
 
