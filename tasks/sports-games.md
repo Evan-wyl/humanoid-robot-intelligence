@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Locomotion-Grounded Humanoid Soccer: Task-Gated Reinforcement Learning of a Multi-Directional Kicking Library](https://arxiv.org/abs/2609.38852)
+
 [2026] [Humanoid Badminton: Learning Dynamic Racket Skills from Limited Human Motion Data](https://arxiv.org/abs/2609.31840)
 
 [2026] [DAVIS: A Depth-Only End-to-End Active-Vision Framework for Humanoid Soccer Skills](https://arxiv.org/abs/2609.28175)

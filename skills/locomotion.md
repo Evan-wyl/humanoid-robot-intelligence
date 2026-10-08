@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [Humanoid Rickshaw Pulling: Whole-Body Locomotion under Coupled Wheeled Loads](https://arxiv.org/abs/2610.04238)
+
+[2026] [Echo in the Steps: Learning Perceptive Humanoid Parkour with Gated Memory](https://arxiv.org/abs/2609.28960)
+
 [2026] [TactileStep: Sole Tactile Learning for Regulating Foot-Terrain Interaction in Humanoid Locomotion](https://arxiv.org/abs/2609.28959)
 
 [2026] [Learning Expressive Humanoid Locomotion from Monocular Runway Videos for Robot Fashion Shows](https://arxiv.org/abs/2609.27003)

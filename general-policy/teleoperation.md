@@ -2,6 +2,12 @@
 
 ### 2026
 
+[2026] [Toward Humanoid Robots in Construction: A Teleoperation Feasibility Study](https://arxiv.org/abs/2610.00718)
+
+[2026] [Beyond Retargeting: Low-Latency and Robust Humanoid Whole-Body Teleoperation with Learned Atomic Motion Primitives](https://arxiv.org/abs/2610.07891)
+
+[2026] [NEXUS: Perceptive Whole-Body Control for Terrain-Adaptive Teleoperation](https://arxiv.org/abs/2609.39000)
+
 [2026] [GAE: General Action Expert for Real-Time Humanoid Teleoperation](https://arxiv.org/abs/2609.34233)
 
 [2026] [Gated Residual Body-Hand Coordination for Whole-Body Humanoid Teleoperation](https://arxiv.org/abs/2609.18763)

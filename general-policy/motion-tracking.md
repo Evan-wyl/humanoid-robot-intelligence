@@ -2,13 +2,21 @@
 
 ### 2026
 
+[2026] [HumanoidTTT: Test-Time Capability Reuse for Efficient Humanoid Control](https://arxiv.org/abs/2610.00198)
+
+[2026] [Filter-Aware Fine-Tuning for Safe Humanoid Whole-Body Tracking](https://arxiv.org/abs/2610.02341)
+
+[2026] [KungfuAthleteBot: learning high-dynamic humanoid motion from video with unified robust recovery](https://arxiv.org/abs/2610.03388)
+
+[2026] [Continual Humanoid Motion Learning](https://arxiv.org/abs/2610.04231)
+
+[2026] [BRACE: Adapting Whole-Body References for Force and Terrain Aware Humanoid Motion Tracking](https://arxiv.org/abs/2610.07052)
+
 [2026] [CompliantWBC: Whole-Body Compliance for Heavy Humanoids via Force Latent Estimation and Residual Impedance Targets](https://arxiv.org/abs/2609.33310)
 
 [2026] [BeyondRetarget: Learning Executable Humanoid Motions Directly from Monocular Video](https://arxiv.org/abs/2609.29850)
 
 [2026] [PLAT: Sparse Timed Keyframe Motion Tracking for Humanoid Control via Privileged Latent Transition Learning](https://arxiv.org/abs/2609.25754)
-
-[2026] [HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark](https://arxiv.org/abs/2608.13555)
 
 [2026] [PFM-HR: Pose Flow Matching for Humanoid Robots](https://arxiv.org/abs/2608.03227)
 

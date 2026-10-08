@@ -2,7 +2,7 @@
 
 ### 2026
 
-[2026] [Before the Body Moves: Learning Anticipatory Joint Intent for Language-Conditioned Humanoid Control](https://arxiv.org/abs/2605.14417)
+
 
 
 

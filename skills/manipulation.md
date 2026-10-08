@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [RoboAssist: Interactive Human-Humanoid Planning for Long-Horizon Surgical Assistance](https://arxiv.org/abs/2609.39384)
+
+[2026] [IronMind: Scaling Humanoid Dexterous Manipulation via Camera-Space Ego-Centric Pretraining](https://arxiv.org/abs/2609.39403)
+
 [2026] [Brace Yourself: Task-Conditioned Environmental Bracing for Forceful Humanoid Manipulation](https://arxiv.org/abs/2609.25486)
 
 [2026] [Learning Dexterous Manipulation Using Contact Wrench Guidance From Human Demonstration](https://arxiv.org/abs/2607.00033)

@@ -2,6 +2,22 @@
 
 ### 2026
 
+[2026] [Towards a General Humanoid Loco-Manipulation Model via Egocentric Whole-Body Human Data Pretraining](https://arxiv.org/abs/2610.00438)
+
+[2026] [MASkillBlender: Decentralized Whole-Body Coordination for Multi-Humanoid Loco-Manipulation via Skill Blending](https://arxiv.org/abs/2610.01102)
+
+[2026] [InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.02196)
+
+[2026] [Exploiting Hierarchical Controller Structure in Contextual Parameter Learning for Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.04609)
+
+[2026] [Dataset-Free Compliant Humanoid Loco-Manipulation with Dynamic Online Posture](https://arxiv.org/abs/2610.05678)
+
+[2026] [InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation](https://arxiv.org/abs/2610.06850)
+
+[2026] [Humanoid Horizon: Extending Task Horizon in Whole-Body Loco-Manipulation via Parallel Training, Dynamic Starting, and Reward Gating](https://arxiv.org/abs/2610.08320)
+
+[2026] [CEER2: Directional and Tunable End-Effector and Root Compliance for Humanoid Loco-Manipulation](https://arxiv.org/abs/2609.38709)
+
 [2026] [Humanoid Loco-Manipulation With Discrete VLA Model](https://arxiv.org/abs/2609.35709)
 
 [2026] [Uni-VLaT: Whole-Body Tactile Adaptation of VLA Policies for Humanoid Loco-Manipulation](https://arxiv.org/abs/2609.35450)

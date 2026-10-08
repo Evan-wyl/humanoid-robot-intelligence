@@ -2,6 +2,14 @@
 
 ### 2026
 
+[2026] [Talk, Render, Act: Integrating Social Gesture and Digital Face with Synchronized Speech for Conversational Humanoid Robot](https://arxiv.org/abs/2610.06153)
+
+[2026] [GestAdapt: Workspace-Conditioned Co-Speech Gesture Generation for Humanoid Robots](https://arxiv.org/abs/2609.38400)
+
+[2026] [ECHO-G: Embodied Co-speech Humanoid mOtion Generation](https://arxiv.org/abs/2609.39575)
+
+[2026] [Before the Body Moves: Learning Anticipatory Joint Intent for Language-Conditioned Humanoid Control](https://arxiv.org/abs/2605.14417)
+
 [2026] [SocialHumanoid: Towards Expressive Humanoid Behavior via One-Step Co-Speech Motion Generation](https://arxiv.org/abs/2609.33311)
 
 [2026] [Sample, Simulate, Select: Physics-in-the-Loop Text-to-Motion for Humanoids Without Training](https://arxiv.org/abs/2609.26420)
