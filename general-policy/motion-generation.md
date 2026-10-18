@@ -2,6 +2,12 @@
 
 ### 2026
 
+[2026] [TRACE: Typed Reference-Aware Conversational Editing for Humanoid Motion Diffusion](https://arxiv.org/abs/2610.21515)
+
+[2026] [PartiGen: Part-Aware Representations for Language-Conditioned Humanoid Motion Generation](https://arxiv.org/abs/2610.13373)
+
+[2026] [Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion](https://arxiv.org/abs/2610.20606)
+
 [2026] [Talk, Render, Act: Integrating Social Gesture and Digital Face with Synchronized Speech for Conversational Humanoid Robot](https://arxiv.org/abs/2610.06153)
 
 [2026] [GestAdapt: Workspace-Conditioned Co-Speech Gesture Generation for Humanoid Robots](https://arxiv.org/abs/2609.38400)

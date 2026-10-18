@@ -2,6 +2,12 @@
 
 ### 2026
 
+[2026] [ATHLETE: Learning Reactive Humanoid Tennis via Trajectory-Guided Motion Matching](https://arxiv.org/abs/2610.13572)
+
+[2026] [From Hitter to Player: Separating Motor Execution and Strategy in Competitive Humanoid Table Tennis](https://arxiv.org/abs/2610.14067)
+
+[2026] [PingpongDuo: Agile Humanoid Table Tennis Doubles with Safe Team Coordination](https://arxiv.org/abs/2610.20579)
+
 [2026] [Locomotion-Grounded Humanoid Soccer: Task-Gated Reinforcement Learning of a Multi-Directional Kicking Library](https://arxiv.org/abs/2609.38852)
 
 [2026] [Humanoid Badminton: Learning Dynamic Racket Skills from Limited Human Motion Data](https://arxiv.org/abs/2609.31840)

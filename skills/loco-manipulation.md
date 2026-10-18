@@ -2,6 +2,18 @@
 
 ### 2026
 
+[2026] [Reflex: Visually Grounded Reactive Humanoid Control](https://arxiv.org/abs/2610.12772)
+
+[2026] [Belief-Overlap Partial Inversion: Object-Centric Flow Replanning for Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.13087)
+
+[2026] [From Video to Vision: Learning Generalizable Humanoid Carrying from Human Motion](https://arxiv.org/abs/2610.14561)
+
+[2026] [λ0: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.18950)
+
+[2026] [KinoGen: Customizable Humanoid Loco-Manipulation References via Kinematically Grounded Video Generation](https://arxiv.org/abs/2610.20552)
+
+[2026] [KODA: Kinematics--Observation Data Alignment for Humanoid Learning from Human Egocentric Demonstration](https://arxiv.org/abs/2610.21152)
+
 [2026] [Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation](https://arxiv.org/abs/2609.38172)
 
 [2026] [EgoAlign: Bridging the Human-Humanoid Gap for Long-Range Loco-Manipulation](https://arxiv.org/abs/2609.38046)

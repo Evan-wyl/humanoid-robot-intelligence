@@ -4,6 +4,10 @@
 
 ### 2026
 
+[2026] [Test-Time Compute for Humanoid Behavior Foundation Models](https://arxiv.org/abs/2610.14896)
+
+[2026] [P-BFM: Perceptive Behavioral Foundation Models for Humanoid Control via Unsupervised Reinforcement Learning](https://arxiv.org/abs/2610.15833)
+
 [2026] [I-BFM: Reward-Conditioned Robust Humanoid Interaction via Unsupervised Reinforcement Learning](https://arxiv.org/abs/2610.06129)
 
 [2026] [CrossBFM: Distilling a Shared Latent Behavior Space Across Humanoid Embodiments](https://arxiv.org/abs/2609.38087)

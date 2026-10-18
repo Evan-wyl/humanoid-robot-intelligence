@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [Terrain Traversal Without Motion Priors: Expert-Routed Humanoid Locomotion at Deployment Fidelity](https://arxiv.org/abs/2610.14061)
+
+[2026] [Push the Limit: Learning High-Speed Sprinting and Aggressive Cornering on a Full-Scale Humanoid](https://arxiv.org/abs/2610.14840)
+
 [2026] [HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion](https://arxiv.org/abs/2610.10489)
 
 [2026] [Humanoid Rickshaw Pulling: Whole-Body Locomotion under Coupled Wheeled Loads](https://arxiv.org/abs/2610.04238)

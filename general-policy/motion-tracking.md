@@ -2,6 +2,12 @@
 
 ### 2026
 
+[2026] [Whole-Body Dexterity](https://arxiv.org/abs/2610.22184)
+
+[2026] [Compliant GMT: Making General Motion Tracking Compliant via Residual Reference Adaptation](https://arxiv.org/abs/2610.22119)
+
+[2026] [Beyond Kinematic Tracking: Preserving Expressive Characteristics in Humanoid Whole-Body Control](https://arxiv.org/abs/2610.19393)
+
 [2026] [HumanoidTTT: Test-Time Capability Reuse for Efficient Humanoid Control](https://arxiv.org/abs/2610.00198)
 
 [2026] [Filter-Aware Fine-Tuning for Safe Humanoid Whole-Body Tracking](https://arxiv.org/abs/2610.02341)

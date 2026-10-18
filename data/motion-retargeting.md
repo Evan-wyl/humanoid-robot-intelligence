@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [PriMoRetarget: Humanoid Motion Transfer Through Prioritized Motion Retargeting](https://arxiv.org/abs/2610.12642)
+
+[2026] [VICAR: Video Imitation with Contact-Aware Retargeting for Humanoid Interactive Skills](https://arxiv.org/abs/2610.13079)
+
 [2026] [OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport](https://arxiv.org/abs/2609.36602)
 
 [2026] [HOI-Retarget: Contact-Centric Retargeting for Human-Object Interaction](https://arxiv.org/abs/2609.34674)
