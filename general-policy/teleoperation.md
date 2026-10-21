@@ -2,10 +2,6 @@
 
 ### 2026
 
-[2026] [Inertially Significant Humanoid Teleoperation via Whole Body Model Predictive Control and Online Parameter Estimation](https://arxiv.org/abs/2610.22176)
-
-[2026] [Human-Like Redundancy Resolution for Real-Time Bimanual Humanoid Teleoperation](https://arxiv.org/abs/2610.16855)
-
 [2026] [Toward Humanoid Robots in Construction: A Teleoperation Feasibility Study](https://arxiv.org/abs/2610.00718)
 
 [2026] [Beyond Retargeting: Low-Latency and Robust Humanoid Whole-Body Teleoperation with Learned Atomic Motion Primitives](https://arxiv.org/abs/2610.07891)
