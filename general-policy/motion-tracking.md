@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model](https://arxiv.org/abs/2610.28480)
+
 [2026] [Whole-Body Dexterity](https://arxiv.org/abs/2610.22184)
 
 [2026] [Compliant GMT: Making General Motion Tracking Compliant via Residual Reference Adaptation](https://arxiv.org/abs/2610.22119)
