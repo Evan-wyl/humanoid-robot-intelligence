@@ -2,6 +2,12 @@
 
 ### 2026
 
+[2026] [SWAP: Test-Time Steerable Humanoid Whole-Body Collision Avoidance](https://arxiv.org/abs/2610.25711)
+
+[2026] [OmniInteract: Towards Unified Whole-Body Interaction Control for Dual Humanoids](https://arxiv.org/abs/2610.26043)
+
+[2026] [VLM-Guided Contact Retargeting and Generative Partner Modeling for Humanoid-Human Interaction](https://arxiv.org/abs/2610.28523)
+
 [2026] [OIL: An Object Interaction Layer for Humanoid Whole-Body Control](https://arxiv.org/abs/2610.14033)
 
 [2026] [CoDance: Learning Reactive and Compliant Human-Humanoid Interaction from Video](https://arxiv.org/abs/2610.05324)

@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Language-Forcing: Advancing Humanoid Loco-Manipulation via Semantic Alignment of Whole-Body World Action Models](https://arxiv.org/abs/2610.23894)
+
 [2026] [Rethinking World-Action Model for Compositional and In-Context Robotic Manipulation](https://arxiv.org/abs/2610.02368v1)
 
 [2026] [WholeBodyWAM: Learning Whole-Body World Action Models with Scalable Motion Priors](https://arxiv.org/abs/2609.18197)

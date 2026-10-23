@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [Compositional Humanoid Manipulation through Isomorphic Teleoperation and Independent Skill Routing](https://arxiv.org/abs/2610.26169)
+
+[2026] [EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation](https://arxiv.org/abs/2610.27242)
+
 [2026] [RoboAssist: Interactive Human-Humanoid Planning for Long-Horizon Surgical Assistance](https://arxiv.org/abs/2609.39384)
 
 [2026] [IronMind: Scaling Humanoid Dexterous Manipulation via Camera-Space Ego-Centric Pretraining](https://arxiv.org/abs/2609.39403)

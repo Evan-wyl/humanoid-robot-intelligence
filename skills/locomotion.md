@@ -2,6 +2,14 @@
 
 ### 2026
 
+[2026] [Watch Your Step: Anticipated Perception for Humanoid Locomotion](https://arxiv.org/abs/2610.29612)
+
+[2026] [Do Earth-Trained Humanoid Controllers Walk on the Moon? Gravity, Terrain, and Soil Transfer](https://arxiv.org/abs/2610.30080)
+
+[2026] [MPBRS: Multi-Potential-Based Reward Shaping for Unified Reward Configuration in Humanoid Locomotion](https://arxiv.org/abs/2610.30334)
+
+[2026] [Humanoid Mobility via Attention-based Contacts](https://arxiv.org/abs/2610.31608)
+
 [2026] [Terrain Traversal Without Motion Priors: Expert-Routed Humanoid Locomotion at Deployment Fidelity](https://arxiv.org/abs/2610.14061)
 
 [2026] [Push the Limit: Learning High-Speed Sprinting and Aggressive Cornering on a Full-Scale Humanoid](https://arxiv.org/abs/2610.14840)

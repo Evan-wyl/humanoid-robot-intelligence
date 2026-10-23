@@ -2,6 +2,22 @@
 
 ### 2026
 
+[2026] [DUET: Decoupled Upper- and Lower-Body Execution for Task-Agnostic Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.23872)
+
+[2026] [Action-Aligned Latent Planning for Versatile Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.24675)
+
+[2026] [DiPLO: Self-distilled Diffusion Planning for Loco-manipulation](https://arxiv.org/abs/2610.24847)
+
+[2026] [Humanoid SRL: Augmenting Humanoids with Supernumerary Limbs for Coordinated Loco-Manipulation](https://arxiv.org/abs/2610.25628)
+
+[2026] [SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.30044)
+
+[2026] [Adaptive Aerial Loco-Manipulation Policy Learning via LLM-Assisted Proactive Task Generation](https://arxiv.org/abs/2610.30810)
+
+[2026] [LocoManiLab: A Unified Testbed for Data, Policies, Controllers, and Deployment in Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.30876)
+
+[2026] [Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.31166)
+
 [2026] [Reflex: Visually Grounded Reactive Humanoid Control](https://arxiv.org/abs/2610.12772)
 
 [2026] [Belief-Overlap Partial Inversion: Object-Centric Flow Replanning for Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.13087)
