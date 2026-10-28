@@ -2,6 +2,16 @@
 
 ### 2026
 
+[2026] [Delay Randomization Widens the Delay Margin of Learned Humanoid Motion Trackers](https://arxiv.org/abs/2610.32277)
+
+[2026] [ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback](https://arxiv.org/abs/2610.32966)
+
+[2026] [MimicAll: Structured Embodiment Conditioning for Cross-Humanoid Whole-Body Motion Tracking](https://arxiv.org/abs/2610.33508)
+
+[2026] [HumanoidNDM: Closing the Training-Deployment Gap of Motion Tracking via Humanoid Neural Dynamics Model](https://arxiv.org/abs/2610.34126)
+
+[2026] [Whole-Body Humanoid Control via Stochastic Motion Tokenization](https://arxiv.org/abs/2610.36452)
+
 [2026] [SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model](https://arxiv.org/abs/2610.28480)
 
 [2026] [Whole-Body Dexterity](https://arxiv.org/abs/2610.22184)

@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [CoCarry: Contact-Support-Structured Retargeting for Dual-Humanoid Cooperative Carrying](https://arxiv.org/abs/2610.32460)
+
 [2026] [Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning](https://arxiv.org/abs/2610.28470)
 
 [2026] [SMR: Learning streaming motion retargeting for humanoids from human semantic](https://arxiv.org/abs/2610.29169)

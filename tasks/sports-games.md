@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [HoloBoxing: A Simple Recipe for Humanoid Boxing with 7 Minutes of Single-GPU Training](https://arxiv.org/abs/2610.32909)
+
 [2026] [ATHLETE: Learning Reactive Humanoid Tennis via Trajectory-Guided Motion Matching](https://arxiv.org/abs/2610.13572)
 
 [2026] [From Hitter to Player: Separating Motor Execution and Strategy in Competitive Humanoid Table Tennis](https://arxiv.org/abs/2610.14067)

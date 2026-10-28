@@ -2,6 +2,12 @@
 
 ### 2026
 
+[2026] [MOTIO: Agentic Skill Engineering for Reality-Grounded Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.33446)
+
+[2026] [Zero-HLM: Generalizable Humanoid Loco-Manipulation without Real Robot Data](https://arxiv.org/abs/2610.35075)
+
+[2026] [Learning Force-Reactive Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.35862)
+
 [2026] [DUET: Decoupled Upper- and Lower-Body Execution for Task-Agnostic Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.23872)
 
 [2026] [Action-Aligned Latent Planning for Versatile Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.24675)

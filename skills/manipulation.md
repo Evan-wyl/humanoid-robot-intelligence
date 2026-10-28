@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Tokens of Motion: Primitive Motion Learning for Human-Humanoid Skill Transfer](https://arxiv.org/abs/2610.37330)
+
 [2026] [Compositional Humanoid Manipulation through Isomorphic Teleoperation and Independent Skill Routing](https://arxiv.org/abs/2610.26169)
 
 [2026] [EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation](https://arxiv.org/abs/2610.27242)

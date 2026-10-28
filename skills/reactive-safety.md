@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [Not an Accident: Exploiting Safety Filter Inadequacy in Humanoid Robots](https://arxiv.org/abs/2610.31923)
+
 [2026] [Test-Time Motion Steering for Perceptive Humanoid Fall Recovery](https://arxiv.org/abs/2610.30061)
 
 [2026] [Reactive Humanoid Multi-Contact Using Learned Stability Models](https://arxiv.org/abs/2610.00823)
