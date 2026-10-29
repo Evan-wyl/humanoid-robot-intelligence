@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [MimicAll: Structured Embodiment Conditioning for Cross-Humanoid Whole-Body Motion Tracking](https://arxiv.org/abs/2610.33508)
+
 [2026] [TRACE: Efficient Transfer Learning for Neural Whole-Body Control Across Humanoid Embodiments](https://arxiv.org/abs/2610.17999)
 
 [2026] [CrossBFM: Distilling a Shared Latent Behavior Space Across Humanoid Embodiments](https://arxiv.org/abs/2609.38087)
