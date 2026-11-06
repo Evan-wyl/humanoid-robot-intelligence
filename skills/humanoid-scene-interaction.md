@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [ReGATE: Recurrent Gated Visual Fusion for Reactive Humanoid-Object Interaction](https://arxiv.org/abs/2611.02871)
+
 [2026] [SWAP: Test-Time Steerable Humanoid Whole-Body Collision Avoidance](https://arxiv.org/abs/2610.25711)
 
 [2026] [OmniInteract: Towards Unified Whole-Body Interaction Control for Dual Humanoids](https://arxiv.org/abs/2610.26043)

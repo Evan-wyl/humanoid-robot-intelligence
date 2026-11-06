@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [HuG: Learning Humanoid Whole-Body Affordance-Aware Grasping with Active Perception](https://arxiv.org/abs/2611.01659)
+
 [2026] [Tokens of Motion: Primitive Motion Learning for Human-Humanoid Skill Transfer](https://arxiv.org/abs/2610.37330)
 
 [2026] [Compositional Humanoid Manipulation through Isomorphic Teleoperation and Independent Skill Routing](https://arxiv.org/abs/2610.26169)

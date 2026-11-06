@@ -2,6 +2,10 @@
 
 ### 2026
 
+[2026] [Contact-Implicit Whole-Body Trajectory Optimization for Dynamic Humanoid Locomotion on Parameterizable Uneven Terrain](https://arxiv.org/abs/2611.05585)
+
+[2026] [Perceptive Humanoid Motion from Simulation](https://arxiv.org/abs/2611.06908)
+
 [2026] [REACH: An RL-based Hierarchical Humanoid Crawling Framework for Adaptable Confined Space Traversal](https://arxiv.org/abs/2610.36546)
 
 [2026] [HC2Robot: Hyper-Connection Transformers with Predicted Foresight for Multi-Terrain Humanoid Parkour](https://arxiv.org/abs/2610.36825)
