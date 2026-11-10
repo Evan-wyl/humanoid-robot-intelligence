@@ -2,6 +2,11 @@
 
 ### 2026
 
+[2026] [XMimic and XSoma: Learning Humanoid Motion Tracking
+and Locomotion in Under a Minute](https://nico-bohlinger.github.io/papers/2026_xmimic_xsoma.pdf)
+
+[2026] [∇Mimic: Ultra-Efficient Humanoid Control with Differentiable Simulation](https://arxiv.org/abs/2610.41654v1)
+
 [2026] [DiffWBC: Unlocking Steerable General Humanoid Motion Tracking via One-Step Diffusion Whole-Body Control](https://arxiv.org/abs/2610.41354)
 
 [2026] [Delay Randomization Widens the Delay Margin of Learned Humanoid Motion Trackers](https://arxiv.org/abs/2610.32277)
