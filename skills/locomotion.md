@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards](https://arxiv.org/abs/2611.08857)
+
 [2026] [Contact-Implicit Whole-Body Trajectory Optimization for Dynamic Humanoid Locomotion on Parameterizable Uneven Terrain](https://arxiv.org/abs/2611.05585)
 
 [2026] [Perceptive Humanoid Motion from Simulation](https://arxiv.org/abs/2611.06908)

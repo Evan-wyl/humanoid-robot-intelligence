@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [MotionSkill: From Bipedal Motion Video to Control across Embodiments](https://arxiv.org/abs/2611.16346)
+
 [2026] [Morphology-Conditioned World Model and Policy Sharing Across Humanoids](https://lzyang2000.github.io/morphmimic/static/morphmimic.pdf)
 
 [2026] [MimicAll: Structured Embodiment Conditioning for Cross-Humanoid Whole-Body Motion Tracking](https://arxiv.org/abs/2610.33508)

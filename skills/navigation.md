@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [LHNav: Long-Horizon Humanoid Navigation via Multirate Coordination and Physics-Grounded Action Data](https://arxiv.org/abs/2611.12136)
+
 [2026] [TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model](https://arxiv.org/abs/2609.09158)
 
 [2026] [Learning Safe Humanoid Navigation from Reduced Order Models](https://arxiv.org/abs/2609.19272)
