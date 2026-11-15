@@ -4,6 +4,8 @@
 
 ### 2026
 
+[2026] [SeeBFMBehavior Foundation Model That Sees](https://capfab.github.io/seebfm-media/seebfm.pdf)
+
 [2026] [Movens-Zero: Scaling Humanoid Motion Foundation Models with Large-Scale Human Videos](https://arxiv.org/abs/2610.41877)
 
 [2026] [Test-Time Compute for Humanoid Behavior Foundation Models](https://arxiv.org/abs/2610.14896)
