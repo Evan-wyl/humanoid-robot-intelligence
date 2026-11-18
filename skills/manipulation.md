@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [TMA: Sim-to-Real Forceful Humanoid Manipulation via Tactile-Driven Motor Adaptation](https://arxiv.org/abs/2611.18976)
+
 [2026] [HuG: Learning Humanoid Whole-Body Affordance-Aware Grasping with Active Perception](https://arxiv.org/abs/2611.01659)
 
 [2026] [Tokens of Motion: Primitive Motion Learning for Human-Humanoid Skill Transfer](https://arxiv.org/abs/2610.37330)

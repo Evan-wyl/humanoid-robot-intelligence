@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [QTOP: Scaling Humanoid Motion Tracking with Quantile Critics](https://arxiv.org/abs/2611.20791)
+
 [2026] [BlinkMimic: Training a Humanoid Motion Tracker in Minutes on a Single GPU](https://arxiv.org/abs/2611.16422)
 
 [2026] [ILA: A Transferable Interface-Level Adapter for Compliant Humanoid Motion Tracking](https://arxiv.org/abs/2611.14985)

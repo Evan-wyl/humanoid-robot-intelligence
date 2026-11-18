@@ -2,6 +2,8 @@
 
 ### 2026
 
+[2026] [MoViC: Real-Time Humanoid Whole-Body Control from Monocular Video Streams](https://arxiv.org/abs/2611.19998)
+
 [2026] [HuMiT: Low-Latency Whole-Body Humanoid Teleoperation via Compact Reference Tracking](https://arxiv.org/abs/2610.29903)
 
 [2026] [Toward Humanoid Robots in Construction: A Teleoperation Feasibility Study](https://arxiv.org/abs/2610.00718)
